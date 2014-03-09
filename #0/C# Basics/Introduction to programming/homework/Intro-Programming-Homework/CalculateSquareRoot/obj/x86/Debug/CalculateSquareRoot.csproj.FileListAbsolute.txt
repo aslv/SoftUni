@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\CalculateSquareRoot.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\CalculateSquareRoot.pdb

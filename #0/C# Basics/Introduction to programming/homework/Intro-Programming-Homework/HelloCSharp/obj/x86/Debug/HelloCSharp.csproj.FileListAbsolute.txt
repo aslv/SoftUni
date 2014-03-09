@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\HelloCSharp\obj\x86\Debug\HelloCSharp.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\HelloCSharp\obj\x86\Debug\HelloCSharp.pdb

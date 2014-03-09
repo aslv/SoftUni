@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\AgeAfterTenYears\obj\x86\Debug\AgeAfterTenYears.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\AgeAfterTenYears\obj\x86\Debug\AgeAfterTenYears.pdb

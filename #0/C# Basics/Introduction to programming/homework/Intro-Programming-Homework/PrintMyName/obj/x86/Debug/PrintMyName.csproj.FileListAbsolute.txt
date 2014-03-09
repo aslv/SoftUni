@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintMyName\obj\x86\Debug\PrintMyName.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintMyName\obj\x86\Debug\PrintMyName.pdb

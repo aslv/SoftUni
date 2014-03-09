@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintThreeNumbers\bin\Debug\PrintThreeNumbers.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintThreeNumbers\bin\Debug\PrintThreeNumbers.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintThreeNumbers\obj\x86\Debug\PrintThreeNumbers.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintThreeNumbers\obj\x86\Debug\PrintThreeNumbers.pdb

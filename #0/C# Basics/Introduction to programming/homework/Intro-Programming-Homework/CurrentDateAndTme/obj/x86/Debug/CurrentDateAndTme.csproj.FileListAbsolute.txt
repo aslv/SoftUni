@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CurrentDateAndTme\bin\Debug\CurrentDateAndTme.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CurrentDateAndTme\bin\Debug\CurrentDateAndTme.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CurrentDateAndTme\obj\x86\Debug\CurrentDateAndTme.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\CurrentDateAndTme\obj\x86\Debug\CurrentDateAndTme.pdb

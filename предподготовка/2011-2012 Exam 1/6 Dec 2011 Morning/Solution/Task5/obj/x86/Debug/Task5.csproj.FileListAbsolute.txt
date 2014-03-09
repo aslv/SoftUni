@@ -1,0 +1,5 @@
+D:\SoftUni\предподготовка\20112012 Exam 1\6 Dec 2011 Morning\Solution\Task5\bin\Debug\Task5.exe
+D:\SoftUni\предподготовка\20112012 Exam 1\6 Dec 2011 Morning\Solution\Task5\bin\Debug\Task5.pdb
+D:\SoftUni\предподготовка\20112012 Exam 1\6 Dec 2011 Morning\Solution\Task5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\предподготовка\20112012 Exam 1\6 Dec 2011 Morning\Solution\Task5\obj\x86\Debug\Task5.exe
+D:\SoftUni\предподготовка\20112012 Exam 1\6 Dec 2011 Morning\Solution\Task5\obj\x86\Debug\Task5.pdb

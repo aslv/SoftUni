@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintSequence\obj\x86\Debug\PrintSequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\homework\Intro-Programming-Homework\PrintSequence\obj\x86\Debug\PrintSequence.pdb

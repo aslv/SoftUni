@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{C649B76B-2365-462A-87C9-E084E25DBCE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{52C065C2-F37F-4F73-9B0F-8ADF8A19FF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{7E3A82FD-09AF-4421-8B69-6A8B4D40C19D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{BC6520DB-FE55-4447-B751-2DD8A1B41761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5", "Task5\Task5.csproj", "{D9665867-6054-4EA3-A0B5-443CCB4CB44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C649B76B-2365-462A-87C9-E084E25DBCE4}.Debug|x86.ActiveCfg = Debug|x86
+		{C649B76B-2365-462A-87C9-E084E25DBCE4}.Debug|x86.Build.0 = Debug|x86
+		{C649B76B-2365-462A-87C9-E084E25DBCE4}.Release|x86.ActiveCfg = Release|x86
+		{C649B76B-2365-462A-87C9-E084E25DBCE4}.Release|x86.Build.0 = Release|x86
+		{52C065C2-F37F-4F73-9B0F-8ADF8A19FF30}.Debug|x86.ActiveCfg = Debug|x86
+		{52C065C2-F37F-4F73-9B0F-8ADF8A19FF30}.Debug|x86.Build.0 = Debug|x86
+		{52C065C2-F37F-4F73-9B0F-8ADF8A19FF30}.Release|x86.ActiveCfg = Release|x86
+		{52C065C2-F37F-4F73-9B0F-8ADF8A19FF30}.Release|x86.Build.0 = Release|x86
+		{7E3A82FD-09AF-4421-8B69-6A8B4D40C19D}.Debug|x86.ActiveCfg = Debug|x86
+		{7E3A82FD-09AF-4421-8B69-6A8B4D40C19D}.Debug|x86.Build.0 = Debug|x86
+		{7E3A82FD-09AF-4421-8B69-6A8B4D40C19D}.Release|x86.ActiveCfg = Release|x86
+		{7E3A82FD-09AF-4421-8B69-6A8B4D40C19D}.Release|x86.Build.0 = Release|x86
+		{BC6520DB-FE55-4447-B751-2DD8A1B41761}.Debug|x86.ActiveCfg = Debug|x86
+		{BC6520DB-FE55-4447-B751-2DD8A1B41761}.Debug|x86.Build.0 = Debug|x86
+		{BC6520DB-FE55-4447-B751-2DD8A1B41761}.Release|x86.ActiveCfg = Release|x86
+		{BC6520DB-FE55-4447-B751-2DD8A1B41761}.Release|x86.Build.0 = Release|x86
+		{D9665867-6054-4EA3-A0B5-443CCB4CB44F}.Debug|x86.ActiveCfg = Debug|x86
+		{D9665867-6054-4EA3-A0B5-443CCB4CB44F}.Debug|x86.Build.0 = Debug|x86
+		{D9665867-6054-4EA3-A0B5-443CCB4CB44F}.Release|x86.ActiveCfg = Release|x86
+		{D9665867-6054-4EA3-A0B5-443CCB4CB44F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
