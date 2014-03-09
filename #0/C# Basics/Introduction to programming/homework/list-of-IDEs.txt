@@ -1,0 +1,40 @@
+Visual Studio
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
+It is used to develop console and graphical user interface applications along with Windows Forms or WPF applications, web sites, web applications, web services, and also Windows Store apps in both native code together with managed code for all platforms supported by Microsoft Windows, Windows Mobile, Windows CE, .NET Framework, .NET Compact Framework and Microsoft Silverlight.
+Visual Studio includes a code editor supporting IntelliSense as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger.
+Other built-in tools include a forms designer for building GUI applications, web designer, class designer, and database schema designer, etc.
+
+Visual Studio supports a great variety of programming languages, as well as many useful tools helping coding, some of which described above.
+In my opinion, Visual Studio is the most powerful IDE so far. The main drawback is that it runs only on Windows OS.
+
+
+
+NetBeans
+
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, HTML5, JS and many others.
+It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+NetBeans is also extremely powerful multiplatform IDE.
+
+
+
+Code::Blocks
+
+Code::Blocks is a free and open source, cross-platform IDE which supports multiple compilers including GCC and Visual C++.
+It is developed in C++ using wxWidgets as the GUI toolkit.
+Using a plugin architecture, its capabilities and features are defined by the provided plugins.
+Currently, Code::Blocks is oriented towards C, C++, and Fortran.
+
+Actually, Code::Blocks is one of the main IDEs, supporting C++. Part of its popularity is gained bacause Dev-C++ becomes more and more obsolete.
+
+
+
+Eclipse
+
+Eclipse is an integrated development environment (IDE), which contains a base workspace and an extensible plug-in system for customizing the environment.
+Written mostly in Java, Eclipse can be used to develop applications.
+By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: C, C++, JavaScript, Perl, PHP, Python, Ruby (including Ruby on Rails framework) and so on.
+
+Eclipse is widely spread.

@@ -1,0 +1,4 @@
+C# is a modern programming language, supporting different programming paradigms.
+.NET is a framework (early called platform), which mainly includes environment for execution of programs in CLR and very rich set of classes.
+Actually, Common Language Runtime (CLR) is a kind of intermediate language, which C# and other lamguages could be translated into, and CLR is executed by .NET execution engine.
+We can say C# is related to .NET as Java to JVM.
