@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\ExchangeVariableValues\obj\x86\Debug\ExchangeVariableValues.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\ExchangeVariableValues\obj\x86\Debug\ExchangeVariableValues.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfThreeIntegers\bin\Debug\SumOfThreeIntegers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfThreeIntegers\bin\Debug\SumOfThreeIntegers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfThreeIntegers\obj\x86\Debug\SumOfThreeIntegers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfThreeIntegers\obj\x86\Debug\SumOfThreeIntegers.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FallingRocks\bin\Debug\FallingRocks.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FallingRocks\bin\Debug\FallingRocks.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FallingRocks\obj\x86\Debug\FallingRocks.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FallingRocks\obj\x86\Debug\FallingRocks.pdb

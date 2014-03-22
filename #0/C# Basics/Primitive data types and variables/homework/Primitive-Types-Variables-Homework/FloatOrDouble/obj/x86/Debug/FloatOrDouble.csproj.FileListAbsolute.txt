@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\FloatOrDouble\obj\x86\Debug\FloatOrDouble.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\FloatOrDouble\obj\x86\Debug\FloatOrDouble.pdb

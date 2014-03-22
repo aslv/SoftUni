@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\NumberComparer\bin\Debug\NumberComparer.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\NumberComparer\bin\Debug\NumberComparer.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\NumberComparer\obj\x86\Debug\NumberComparer.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\NumberComparer\obj\x86\Debug\NumberComparer.pdb

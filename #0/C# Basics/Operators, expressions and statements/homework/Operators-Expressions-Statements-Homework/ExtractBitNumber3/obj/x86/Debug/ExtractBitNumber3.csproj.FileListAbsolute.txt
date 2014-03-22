@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitNumber3\bin\Debug\ExtractBitNumber3.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitNumber3\bin\Debug\ExtractBitNumber3.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitNumber3\obj\x86\Debug\ExtractBitNumber3.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitNumber3\obj\x86\Debug\ExtractBitNumber3.pdb

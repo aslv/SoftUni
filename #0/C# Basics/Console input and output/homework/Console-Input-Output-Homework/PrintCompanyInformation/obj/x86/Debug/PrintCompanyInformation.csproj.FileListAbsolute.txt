@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\PrintCompanyInformation\obj\x86\Debug\PrintCompanyInformation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\PrintCompanyInformation\obj\x86\Debug\PrintCompanyInformation.pdb

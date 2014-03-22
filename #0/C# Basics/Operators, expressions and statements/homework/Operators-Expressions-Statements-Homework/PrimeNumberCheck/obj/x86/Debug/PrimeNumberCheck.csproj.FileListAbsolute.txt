@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PrimeNumberCheck\obj\x86\Debug\PrimeNumberCheck.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PrimeNumberCheck\obj\x86\Debug\PrimeNumberCheck.pdb

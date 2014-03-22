@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\GravitationOnTheMoon\obj\x86\Debug\GravitationOnTheMoon.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\GravitationOnTheMoon\obj\x86\Debug\GravitationOnTheMoon.pdb

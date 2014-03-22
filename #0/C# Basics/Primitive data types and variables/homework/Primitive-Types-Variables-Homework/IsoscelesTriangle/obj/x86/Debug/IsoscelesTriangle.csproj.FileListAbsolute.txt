@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\IsoscelesTriangle\obj\x86\Debug\IsoscelesTriangle.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\IsoscelesTriangle\obj\x86\Debug\IsoscelesTriangle.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitManipulation\bin\Debug\BitManipulation.dll
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitManipulation\bin\Debug\BitManipulation.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitManipulation\obj\Debug\BitManipulation.dll
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitManipulation\obj\Debug\BitManipulation.pdb

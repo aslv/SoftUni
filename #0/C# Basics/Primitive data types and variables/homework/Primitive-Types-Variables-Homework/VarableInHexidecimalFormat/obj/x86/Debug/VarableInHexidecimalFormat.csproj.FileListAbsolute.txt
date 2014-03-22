@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\VarableInHexidecimalFormat\bin\Debug\VarableInHexidecimalFormat.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\VarableInHexidecimalFormat\bin\Debug\VarableInHexidecimalFormat.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\VarableInHexidecimalFormat\obj\x86\Debug\VarableInHexidecimalFormat.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\VarableInHexidecimalFormat\obj\x86\Debug\VarableInHexidecimalFormat.pdb

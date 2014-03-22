@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\DivisionBy5and7\bin\Debug\DivisionBy5and7.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\DivisionBy5and7\bin\Debug\DivisionBy5and7.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\DivisionBy5and7\obj\x86\Debug\DivisionBy5and7.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\DivisionBy5and7\obj\x86\Debug\DivisionBy5and7.pdb

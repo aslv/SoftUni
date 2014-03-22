@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PontInCircAndOutOfRect\bin\Debug\PontInCircAndOutOfRect.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PontInCircAndOutOfRect\bin\Debug\PontInCircAndOutOfRect.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PontInCircAndOutOfRect\obj\x86\Debug\PontInCircAndOutOfRect.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\PontInCircAndOutOfRect\obj\x86\Debug\PontInCircAndOutOfRect.pdb

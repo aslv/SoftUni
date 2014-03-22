@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FormattingNumbers\obj\x86\Debug\FormattingNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\FormattingNumbers\obj\x86\Debug\FormattingNumbers.pdb

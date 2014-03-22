@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfFiveNumbers\obj\x86\Debug\SumOfFiveNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\SumOfFiveNumbers\obj\x86\Debug\SumOfFiveNumbers.pdb

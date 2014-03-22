@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitFromInteger\obj\x86\Debug\ExtractBitFromInteger.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ExtractBitFromInteger\obj\x86\Debug\ExtractBitFromInteger.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\CirclePerimetreAndArea\bin\Debug\CirclePerimetreAndArea.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\CirclePerimetreAndArea\bin\Debug\CirclePerimetreAndArea.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\CirclePerimetreAndArea\obj\x86\Debug\CirclePerimetreAndArea.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\CirclePerimetreAndArea\obj\x86\Debug\CirclePerimetreAndArea.pdb

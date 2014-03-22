@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\Rectangle'sPerimetreAndArea\bin\Debug\Rectangle'sPerimetreAndArea.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\Rectangle'sPerimetreAndArea\bin\Debug\Rectangle'sPerimetreAndArea.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\Rectangle'sPerimetreAndArea\obj\x86\Debug\Rectangle'sPerimetreAndArea.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\Rectangle'sPerimetreAndArea\obj\x86\Debug\Rectangle'sPerimetreAndArea.pdb

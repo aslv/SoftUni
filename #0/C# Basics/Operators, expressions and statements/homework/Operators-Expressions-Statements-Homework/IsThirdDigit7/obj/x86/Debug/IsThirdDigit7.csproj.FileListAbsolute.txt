@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\IsThirdDigit7\bin\Debug\IsThirdDigit7.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\IsThirdDigit7\obj\x86\Debug\IsThirdDigit7.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\IsThirdDigit7\obj\x86\Debug\IsThirdDigit7.pdb

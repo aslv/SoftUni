@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\CheckABitAtGivenPosition\obj\x86\Debug\CheckABitAtGivenPosition.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\CheckABitAtGivenPosition\obj\x86\Debug\CheckABitAtGivenPosition.pdb

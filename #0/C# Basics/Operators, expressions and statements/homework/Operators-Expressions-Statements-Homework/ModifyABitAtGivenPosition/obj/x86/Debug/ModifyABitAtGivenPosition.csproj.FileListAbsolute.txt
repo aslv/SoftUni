@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ModifyABitAtGivenPosition\obj\x86\Debug\ModifyABitAtGivenPosition.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\ModifyABitAtGivenPosition\obj\x86\Debug\ModifyABitAtGivenPosition.pdb

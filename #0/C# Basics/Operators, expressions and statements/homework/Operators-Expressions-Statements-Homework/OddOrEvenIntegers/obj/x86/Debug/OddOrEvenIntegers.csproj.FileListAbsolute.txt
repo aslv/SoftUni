@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\OddOrEvenIntegers\obj\x86\Debug\OddOrEvenIntegers.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\OddOrEvenIntegers\obj\x86\Debug\OddOrEvenIntegers.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\bin\Debug\BitsExchangeAdvanced.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\bin\Debug\BitManipulation.dll
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\bin\Debug\BitManipulation.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\obj\x86\Debug\BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\obj\x86\Debug\BitsExchangeAdvanced.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\BitsExchangeAdvanced\obj\x86\Debug\BitsExchangeAdvanced.pdb

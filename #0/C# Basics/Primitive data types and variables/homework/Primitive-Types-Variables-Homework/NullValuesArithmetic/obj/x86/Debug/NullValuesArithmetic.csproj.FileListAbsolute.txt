@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\NullValuesArithmetic\obj\x86\Debug\NullValuesArithmetic.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\homework\Primitive-Types-Variables-Homework\NullValuesArithmetic\obj\x86\Debug\NullValuesArithmetic.pdb

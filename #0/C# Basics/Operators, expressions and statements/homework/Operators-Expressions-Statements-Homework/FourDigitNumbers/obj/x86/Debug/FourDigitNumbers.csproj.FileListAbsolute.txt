@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\FourDigitNumbers\bin\Debug\FourDigitNumbers.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\FourDigitNumbers\bin\Debug\FourDigitNumbers.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\FourDigitNumbers\obj\x86\Debug\FourDigitNumbers.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\homework\Operators-Expressions-Statements-Homework\FourDigitNumbers\obj\x86\Debug\FourDigitNumbers.pdb

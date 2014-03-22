@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\QuadraticEquation\obj\x86\Debug\QuadraticEquation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\homework\Console-Input-Output-Homework\QuadraticEquation\obj\x86\Debug\QuadraticEquation.pdb
