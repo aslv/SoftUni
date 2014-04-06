@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\TheBiggestOfThreeNumbers\bin\Debug\TheBiggestOfThreeNumbers.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\TheBiggestOfThreeNumbers\bin\Debug\TheBiggestOfThreeNumbers.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\TheBiggestOfThreeNumbers\obj\x86\Debug\TheBiggestOfThreeNumbers.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\TheBiggestOfThreeNumbers\obj\x86\Debug\TheBiggestOfThreeNumbers.pdb

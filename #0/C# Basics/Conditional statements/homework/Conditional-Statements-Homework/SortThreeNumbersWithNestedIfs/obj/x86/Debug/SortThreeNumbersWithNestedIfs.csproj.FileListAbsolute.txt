@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\SortThreeNumbersWithNestedIfs\bin\Debug\SortThreeNumbersWithNestedIfs.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\SortThreeNumbersWithNestedIfs\bin\Debug\SortThreeNumbersWithNestedIfs.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\SortThreeNumbersWithNestedIfs\obj\x86\Debug\SortThreeNumbersWithNestedIfs.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\SortThreeNumbersWithNestedIfs\obj\x86\Debug\SortThreeNumbersWithNestedIfs.pdb

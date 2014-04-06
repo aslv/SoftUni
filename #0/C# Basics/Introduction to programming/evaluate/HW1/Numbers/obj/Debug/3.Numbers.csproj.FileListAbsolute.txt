@@ -1,0 +1,15 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\obj\Debug\Numbers.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\obj\Debug\Numbers.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\bin\Debug\Numbers.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\bin\Debug\Numbers.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\obj\Debug\Numbers.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\obj\Debug\Numbers.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\Numbers.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\Numbers.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Numbers\obj\Debug\3.Numbers.csprojResolveAssemblyReference.cache

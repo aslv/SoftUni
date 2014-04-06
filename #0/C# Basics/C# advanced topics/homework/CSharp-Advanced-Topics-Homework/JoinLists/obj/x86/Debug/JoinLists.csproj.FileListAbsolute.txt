@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\JoinLists\bin\Debug\JoinLists.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\JoinLists\bin\Debug\JoinLists.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\JoinLists\obj\x86\Debug\JoinLists.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\JoinLists\obj\x86\Debug\JoinLists.pdb

@@ -1,0 +1,4 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\08 - QuotesInString\obj\Debug\08 - QuotesInString.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\08 - QuotesInString\obj\Debug\08 - QuotesInString.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\08 - QuotesInString\obj\Debug\08 - QuotesInString.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\08 - QuotesInString\obj\Debug\08 - QuotesInString.pdb

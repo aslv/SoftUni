@@ -1,0 +1,8 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\bin\Debug\Problem_14.Print_the_ASCII_Table.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\bin\Debug\Problem_14.Print_the_ASCII_Table.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\bin\Debug\Problem_14.Print_the_ASCII_Table.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\obj\Debug\Problem_14.Print_the_ASCII_Table.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\obj\Debug\Problem_14.Print_the_ASCII_Table.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\bin\Debug\Problem_14.Print_the_ASCII_Table.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\obj\Debug\Problem_14.Print_the_ASCII_Table.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 14. Print the ASCII Table\obj\Debug\Problem_14.Print_the_ASCII_Table.pdb

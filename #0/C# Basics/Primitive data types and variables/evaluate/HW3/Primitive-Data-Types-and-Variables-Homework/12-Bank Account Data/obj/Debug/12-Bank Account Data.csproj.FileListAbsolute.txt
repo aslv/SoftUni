@@ -1,0 +1,9 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.csprojResolveAssemblyReference.cache
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\bin\Debug\12-Bank Account Data.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\bin\Debug\12-Bank Account Data.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.pdb
+C:\Users\UniUser\Downloads\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.exe
+C:\Users\UniUser\Downloads\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\12-Bank Account Data\obj\Debug\12-Bank Account Data.pdb

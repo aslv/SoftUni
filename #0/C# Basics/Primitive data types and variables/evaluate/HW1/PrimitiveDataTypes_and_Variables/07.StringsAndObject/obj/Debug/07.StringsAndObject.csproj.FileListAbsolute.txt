@@ -1,0 +1,17 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\07.StringsAndObject.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\07.StringsAndObject.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\07.StringsAndObject.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\07.StringsAndObject\obj\Debug\07.StringsAndObject.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\07.StringsAndObject\obj\Debug\07.StringsAndObject.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\07.StringsAndObject.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\obj\Debug\07.StringsAndObject.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\obj\Debug\07.StringsAndObject.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\07.StringsAndObject.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\07.StringsAndObject.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\07.StringsAndObject\obj\Debug\07.StringsAndObject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C# is a language, NET is an application framework. 
+The .NET is working whit .exe fails created on any language ( like C#).
+C# is designed for Common Language Infrastructure (CLI), which consists of the executable code and runtime environment that allows use of various high-level languages to be used on different computer platforms.
+The .NET libraries can run on the CLR and thus any language which can run on the CLR can also use the .NET libraries.  

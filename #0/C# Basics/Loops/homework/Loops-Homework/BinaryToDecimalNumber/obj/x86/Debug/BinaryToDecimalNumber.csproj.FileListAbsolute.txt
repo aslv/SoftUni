@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\BinaryToDecimalNumber\obj\x86\Debug\BinaryToDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\BinaryToDecimalNumber\obj\x86\Debug\BinaryToDecimalNumber.pdb

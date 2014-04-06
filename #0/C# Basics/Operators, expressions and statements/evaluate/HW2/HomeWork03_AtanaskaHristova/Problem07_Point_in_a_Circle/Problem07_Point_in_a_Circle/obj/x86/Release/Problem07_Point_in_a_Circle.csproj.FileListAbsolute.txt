@@ -1,0 +1,7 @@
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem07_Point_in_a_Circle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem07_Point_in_a_Circle\bin\Release\Problem07_Point_in_a_Circle.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem07_Point_in_a_Circle\bin\Release\Problem07_Point_in_a_Circle.pdb
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem07_Point_in_a_Circle\obj\x86\Release\Problem07_Point_in_a_Circle.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem07_Point_in_a_Circle\obj\x86\Release\Problem07_Point_in_a_Circle.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem07_Point_in_a_Circle\Problem07_Point_in_a_Circle\obj\x86\Release\Problem07_Point_in_a_Circle.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem07_Point_in_a_Circle\Problem07_Point_in_a_Circle\obj\x86\Release\Problem07_Point_in_a_Circle.pdb

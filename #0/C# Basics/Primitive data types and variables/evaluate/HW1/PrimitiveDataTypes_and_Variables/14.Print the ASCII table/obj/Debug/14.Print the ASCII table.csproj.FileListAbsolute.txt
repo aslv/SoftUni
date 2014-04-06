@@ -1,0 +1,8 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\bin\Debug\14.Print the ASCII table.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\bin\Debug\14.Print the ASCII table.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\bin\Debug\14.Print the ASCII table.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\obj\Debug\14.Print the ASCII table.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\obj\Debug\14.Print the ASCII table.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\bin\Debug\14.Print the ASCII table.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\obj\Debug\14.Print the ASCII table.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\14.Print the ASCII table\obj\Debug\14.Print the ASCII table.pdb

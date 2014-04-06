@@ -1,0 +1,18 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\04.PrintNumbers.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\03.PrintNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\04.PrintNumbers.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\03.PrintNumbers.csprojResolveAssemblyReference.cache

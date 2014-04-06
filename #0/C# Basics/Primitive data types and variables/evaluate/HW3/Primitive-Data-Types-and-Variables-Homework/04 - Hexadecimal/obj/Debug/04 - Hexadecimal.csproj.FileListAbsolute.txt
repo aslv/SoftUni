@@ -1,0 +1,5 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\04 - Hexadecimal\bin\Debug\04 - Hexadecimal.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\04 - Hexadecimal\bin\Debug\04 - Hexadecimal.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\04 - Hexadecimal\obj\Debug\04 - Hexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\04 - Hexadecimal\obj\Debug\04 - Hexadecimal.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\04 - Hexadecimal\obj\Debug\04 - Hexadecimal.pdb

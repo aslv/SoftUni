@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\OddAndEvenProduct\obj\x86\Debug\OddAndEvenProduct.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\OddAndEvenProduct\obj\x86\Debug\OddAndEvenProduct.pdb

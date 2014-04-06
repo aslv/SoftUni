@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\obj\Debug\06.SquareRoot.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\obj\Debug\06.SquareRoot.pdb

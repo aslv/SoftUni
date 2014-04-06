@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\DigitAsWord\obj\x86\Debug\DigitAsWord.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\DigitAsWord\obj\x86\Debug\DigitAsWord.pdb

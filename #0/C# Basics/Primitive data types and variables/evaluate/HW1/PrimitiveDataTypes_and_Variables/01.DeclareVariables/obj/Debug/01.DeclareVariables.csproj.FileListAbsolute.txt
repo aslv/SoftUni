@@ -1,0 +1,18 @@
+c:\users\deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
+c:\users\deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+c:\users\deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+c:\users\deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+c:\users\deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\01.DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache

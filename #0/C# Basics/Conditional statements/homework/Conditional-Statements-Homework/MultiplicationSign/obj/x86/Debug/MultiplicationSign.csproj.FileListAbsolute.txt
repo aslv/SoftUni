@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\MultiplicationSign\obj\x86\Debug\MultiplicationSign.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\MultiplicationSign\obj\x86\Debug\MultiplicationSign.pdb

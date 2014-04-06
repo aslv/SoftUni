@@ -1,0 +1,17 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem 10. Employee Data.csprojResolveAssemblyReference.cache

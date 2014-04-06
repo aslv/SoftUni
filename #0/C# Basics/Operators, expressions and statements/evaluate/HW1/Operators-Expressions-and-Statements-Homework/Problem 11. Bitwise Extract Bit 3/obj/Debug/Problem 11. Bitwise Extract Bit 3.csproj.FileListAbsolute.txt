@@ -1,0 +1,2 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe.config

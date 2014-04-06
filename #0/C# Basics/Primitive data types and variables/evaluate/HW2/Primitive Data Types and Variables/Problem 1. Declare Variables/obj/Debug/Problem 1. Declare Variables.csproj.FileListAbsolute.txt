@@ -1,0 +1,9 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 1. Declare Variables\obj\Debug\Problem 1. Declare Variables.csprojResolveAssemblyReference.cache
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 1. Declare Variables\bin\Debug\Problem_1.Declare_Variables.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 1. Declare Variables\obj\Debug\Problem_1.Declare_Variables.pdb

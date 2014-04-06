@@ -1,0 +1,5 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.pdb

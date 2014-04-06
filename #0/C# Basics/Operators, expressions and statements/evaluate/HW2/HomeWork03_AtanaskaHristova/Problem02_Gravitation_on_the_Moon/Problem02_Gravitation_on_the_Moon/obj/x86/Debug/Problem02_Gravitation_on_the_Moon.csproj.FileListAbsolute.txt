@@ -1,0 +1,5 @@
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\bin\Debug\Problem02_Gravitation_on_the_Moon.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\bin\Debug\Problem02_Gravitation_on_the_Moon.pdb
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\obj\x86\Debug\Problem02_Gravitation_on_the_Moon.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\obj\x86\Debug\Problem02_Gravitation_on_the_Moon.pdb

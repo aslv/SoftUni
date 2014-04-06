@@ -1,0 +1,15 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\bin\Debug\Current Date and Time.exe.config
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\obj\Debug\Current Date and Time.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\obj\Debug\Current Date and Time.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\Current Date and Time.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\obj\Debug\Current Date and Time.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\obj\Debug\Current Date and Time.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\Current Date and Time.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\Current Date and Time.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\Current Date and Time\obj\Debug\8.Current Date and Time.csprojResolveAssemblyReference.cache

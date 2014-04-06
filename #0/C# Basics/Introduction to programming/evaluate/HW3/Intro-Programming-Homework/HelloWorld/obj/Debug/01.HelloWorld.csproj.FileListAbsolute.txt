@@ -1,0 +1,18 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloWorld\obj\Debug\01.HelloWorld.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloWorld\obj\Debug\01.HelloWorld.csprojResolveAssemblyReference.cache

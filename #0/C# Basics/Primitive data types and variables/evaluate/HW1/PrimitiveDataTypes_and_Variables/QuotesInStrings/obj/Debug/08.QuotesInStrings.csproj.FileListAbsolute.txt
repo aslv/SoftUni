@@ -1,0 +1,6 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\QuotesInStrings\obj\Debug\08.QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

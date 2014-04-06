@@ -1,0 +1,8 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_09_Trapezoids\bin\Debug\Problem_09_Trapezoids.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_09_Trapezoids\bin\Debug\Problem_09_Trapezoids.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_09_Trapezoids\bin\Debug\Problem_09_Trapezoids.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_09_Trapezoids\obj\Debug\Problem_09_Trapezoids.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_09_Trapezoids\obj\Debug\Problem_09_Trapezoids.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_09_Trapezoids\bin\Debug\Problem_09_Trapezoids.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_09_Trapezoids\obj\Debug\Problem_09_Trapezoids.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_09_Trapezoids\obj\Debug\Problem_09_Trapezoids.pdb

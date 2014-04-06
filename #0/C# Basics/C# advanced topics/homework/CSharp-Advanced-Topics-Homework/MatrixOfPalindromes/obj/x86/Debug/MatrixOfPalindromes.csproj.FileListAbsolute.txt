@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\MatrixOfPalindromes\obj\x86\Debug\MatrixOfPalindromes.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\MatrixOfPalindromes\obj\x86\Debug\MatrixOfPalindromes.pdb

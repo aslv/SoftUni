@@ -1,0 +1,5 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\test\bin\Debug\test.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\test\bin\Debug\test.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\test\bin\Debug\test.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\test\obj\Debug\test.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\test\obj\Debug\test.pdb

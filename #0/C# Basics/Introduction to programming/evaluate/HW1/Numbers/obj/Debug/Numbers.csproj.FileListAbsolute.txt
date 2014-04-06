@@ -1,0 +1,6 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\bin\Debug\Numbers.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\bin\Debug\Numbers.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\obj\Debug\Numbers.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Numbers\obj\Debug\Numbers.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\BeerTime\bin\Debug\BeerTime.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\BeerTime\bin\Debug\BeerTime.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\BeerTime\obj\x86\Debug\BeerTime.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\BeerTime\obj\x86\Debug\BeerTime.pdb

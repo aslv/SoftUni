@@ -1,0 +1,8 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\obj\Debug\Problem_9.Exchange_Variable_Values.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\obj\Debug\Problem_9.Exchange_Variable_Values.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\bin\Debug\Problem_9.Exchange_Variable_Values.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\obj\Debug\Problem_9.Exchange_Variable_Values.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 9. Exchange Variable Values\obj\Debug\Problem_9.Exchange_Variable_Values.pdb

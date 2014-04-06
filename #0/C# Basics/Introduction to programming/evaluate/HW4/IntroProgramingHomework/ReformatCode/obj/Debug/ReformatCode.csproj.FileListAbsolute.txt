@@ -1,0 +1,5 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\ReformatCode\bin\Debug\ReformatCode.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\ReformatCode\bin\Debug\ReformatCode.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\ReformatCode\bin\Debug\ReformatCode.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\ReformatCode\obj\Debug\ReformatCode.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\ReformatCode\obj\Debug\ReformatCode.pdb

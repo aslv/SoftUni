@@ -1,0 +1,5 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\bin\Debug\Current Date and Time.exe.config
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\bin\Debug\Current Date and Time.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\bin\Debug\Current Date and Time.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\obj\Debug\Current Date and Time.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\Current Date and Time\obj\Debug\Current Date and Time.pdb

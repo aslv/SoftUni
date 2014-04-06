@@ -1,0 +1,8 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\bin\Debug\13-NullValuesArithmetic.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\bin\Debug\13-NullValuesArithmetic.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\obj\Debug\13-NullValuesArithmetic.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\obj\Debug\13-NullValuesArithmetic.pdb
+C:\Users\UniUser\Downloads\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\obj\Debug\13-NullValuesArithmetic.exe
+C:\Users\UniUser\Downloads\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\obj\Debug\13-NullValuesArithmetic.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\obj\Debug\13-NullValuesArithmetic.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\13-NullValuesArithmetic\obj\Debug\13-NullValuesArithmetic.pdb

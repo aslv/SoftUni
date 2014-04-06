@@ -1,0 +1,6 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\NumberSequence\obj\Debug\NumberSequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW4\IntroProgramingHomework\NumberSequence\bin\Debug\NumberSequence.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW4\IntroProgramingHomework\NumberSequence\obj\Debug\NumberSequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW4\IntroProgramingHomework\NumberSequence\obj\Debug\NumberSequence.pdb

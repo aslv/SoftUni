@@ -1,0 +1,26 @@
+Mark: Домашното е написано добре.
+Comments:
+Хубаво е, че прилагаш условията на задачите.
+
+Започвам задача по задача:
+
+= Problem_01_OddOrEven --> добре;
+= Problem_02_GravitationOnMoon --> да;
+= Problem_03_DivideBySevenAndFive --> съгласен съм, обаче нулата по дефиниция се дели на всяко число, така че няма нужда от тази проверка, също така, понеже 5 и 7 са взаимно прости, може направо да се провери numberToCheck % 35 == 0;
+= Problem_04_Rectangles --> ОК;
+= Problem_05_ThirdDigitIsSeven --> добре ( само че се пише Divided, а не Devided, но това са подробности :D );
+= Problem_06_FourDigitNumber --> да;
+= Problem_07_PointInACircle --> добре;
+= Problem_08_PrimeNumberCheck --> добре, харесва ми, че си използвал(а) условието i <= Math.Sqrt(numberToCheck); на тази задача кодът не беше форматиран и бих препоръчал да сложиш един break; в if-а в цикъла, защото като е намерен делител, няма нужда да се проверява след това;
+= Problem_09_Trapezoids --> ОК;
+= Problem_10_PointInsideCircleOutsideRect --> доста прегледно решение, харесва ми;
+= Problem_11_BitwiseExtractBit3 --> да;
+= Problem_12_ExtractBitFromInteger --> добре;
+= Problem_13_CheckBitAtGivenPosition --> да ( можеше просто bool bitIsOne = numberAndMask > 0; но това няма особено значение);
+= Problem_14_ModifyBitAtGivenPosition --> поздравления! Така се прави :) ;
+= Problem_15_BitsExchange --> добре, ама бая сложничко си я решил(а);
+= Problem_16_BitExchangeAdvanced --> тук нямаш проверка за overlapping и out of range.
+
+Изключително добре си се справил(а)! Продължавай все така, харесва ми, че именуваш променливите и проектите си по смислен и описателен начин. Хубаво е, че сменяш името на основния клас, но заедно с това сменяй и на Program.cs (със същото име).
+
+Успехи!!!

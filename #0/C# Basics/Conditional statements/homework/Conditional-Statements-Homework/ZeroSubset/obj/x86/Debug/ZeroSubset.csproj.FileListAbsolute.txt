@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\ZeroSubset\bin\Debug\ZeroSubset.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\ZeroSubset\bin\Debug\ZeroSubset.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\ZeroSubset\obj\x86\Debug\ZeroSubset.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\ZeroSubset\obj\x86\Debug\ZeroSubset.pdb

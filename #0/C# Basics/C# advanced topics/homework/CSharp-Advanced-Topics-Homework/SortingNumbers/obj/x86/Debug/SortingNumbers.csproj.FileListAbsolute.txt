@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\SortingNumbers\bin\Debug\SortingNumbers.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\SortingNumbers\bin\Debug\SortingNumbers.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\SortingNumbers\obj\x86\Debug\SortingNumbers.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\SortingNumbers\obj\x86\Debug\SortingNumbers.pdb

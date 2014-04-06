@@ -1,0 +1,2 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe.config

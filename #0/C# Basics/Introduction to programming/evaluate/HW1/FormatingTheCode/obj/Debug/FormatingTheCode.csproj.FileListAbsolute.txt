@@ -1,0 +1,6 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\FormatingTheCode\bin\Debug\FormatingTheCode.exe.config
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\FormatingTheCode\bin\Debug\FormatingTheCode.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\FormatingTheCode\bin\Debug\FormatingTheCode.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\FormatingTheCode\obj\Debug\FormatingTheCode.csprojResolveAssemblyReference.cache
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\FormatingTheCode\obj\Debug\FormatingTheCode.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\FormatingTheCode\obj\Debug\FormatingTheCode.pdb

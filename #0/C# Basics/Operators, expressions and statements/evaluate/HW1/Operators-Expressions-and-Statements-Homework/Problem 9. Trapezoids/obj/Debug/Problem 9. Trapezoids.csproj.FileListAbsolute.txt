@@ -1,0 +1,8 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb

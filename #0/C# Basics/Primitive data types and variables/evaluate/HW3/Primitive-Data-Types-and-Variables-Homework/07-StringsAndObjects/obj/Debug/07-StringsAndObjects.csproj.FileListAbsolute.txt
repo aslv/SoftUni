@@ -1,0 +1,6 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\07-StringsAndObjects\bin\Debug\07-StringsAndObjects.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\07-StringsAndObjects\bin\Debug\07-StringsAndObjects.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\07-StringsAndObjects\obj\Debug\07-StringsAndObjects.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\07-StringsAndObjects\obj\Debug\07-StringsAndObjects.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\07-StringsAndObjects\obj\Debug\07-StringsAndObjects.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\07-StringsAndObjects\obj\Debug\07-StringsAndObjects.pdb

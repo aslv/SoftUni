@@ -1,0 +1,6 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintName\obj\Debug\PrintName.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintName\obj\Debug\PrintName.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintName\bin\Debug\PrintName.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintName\bin\Debug\PrintName.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\PrintName\obj\Debug\PrintName.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\PrintName\obj\Debug\PrintName.pdb

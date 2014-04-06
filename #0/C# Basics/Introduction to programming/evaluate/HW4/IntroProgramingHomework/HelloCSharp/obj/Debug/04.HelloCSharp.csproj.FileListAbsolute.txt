@@ -1,0 +1,6 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW4\IntroProgramingHomework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW4\IntroProgramingHomework\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW4\IntroProgramingHomework\HelloCSharp\obj\Debug\HelloCSharp.pdb

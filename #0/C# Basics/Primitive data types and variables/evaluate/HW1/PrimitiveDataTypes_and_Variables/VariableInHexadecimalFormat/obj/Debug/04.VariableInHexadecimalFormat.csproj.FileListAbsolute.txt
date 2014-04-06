@@ -1,0 +1,18 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

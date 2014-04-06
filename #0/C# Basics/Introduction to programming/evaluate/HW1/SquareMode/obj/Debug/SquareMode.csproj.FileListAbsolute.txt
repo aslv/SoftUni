@@ -1,0 +1,6 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\SquareMode\bin\Debug\SquareMode.exe.config
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\SquareMode\obj\Debug\SquareMode.csprojResolveAssemblyReference.cache
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\SquareMode\bin\Debug\SquareMode.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\SquareMode\bin\Debug\SquareMode.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\SquareMode\obj\Debug\SquareMode.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\SquareMode\obj\Debug\SquareMode.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountOfLetters\bin\Debug\CountOfLetters.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountOfLetters\bin\Debug\CountOfLetters.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountOfLetters\obj\x86\Debug\CountOfLetters.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountOfLetters\obj\x86\Debug\CountOfLetters.pdb

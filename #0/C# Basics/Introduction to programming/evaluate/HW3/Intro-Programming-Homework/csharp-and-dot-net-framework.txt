@@ -1,0 +1,5 @@
+.NET isn't just a library, but also a runtime for executing applications.
+The knowledge of C# implies some knowledge of .NET (because the C# object model 
+corresponds to the .NET object model and you can do anything interesting in C# just by using .NET libraries)
+.NET isn't just a library, but also a runtime for executing applications.
+The knowledge of C# implies some knowledge of .NET (because the C# object model corresponds to the .NET object model). Thanks to the .NET, C# is easier to use

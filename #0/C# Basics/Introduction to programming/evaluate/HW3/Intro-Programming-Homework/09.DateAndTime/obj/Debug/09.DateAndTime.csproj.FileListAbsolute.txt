@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\obj\Debug\09.DateAndTime.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\obj\Debug\09.DateAndTime.pdb

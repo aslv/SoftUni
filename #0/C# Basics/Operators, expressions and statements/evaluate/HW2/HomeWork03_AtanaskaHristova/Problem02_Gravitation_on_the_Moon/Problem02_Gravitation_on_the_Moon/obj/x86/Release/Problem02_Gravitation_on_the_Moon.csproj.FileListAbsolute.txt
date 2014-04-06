@@ -1,0 +1,12 @@
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\bin\Release\Problem02_Gravitation_on_the_Moon.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\bin\Release\Problem02_Gravitation_on_the_Moon.pdb
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\obj\x86\Release\Problem02_Gravitation_on_the_Moon.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem02_Gravitation_on_the_Moon\obj\x86\Release\Problem02_Gravitation_on_the_Moon.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\obj\x86\Release\Problem02_Gravitation_on_the_Moon.exe
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\obj\x86\Release\Problem02_Gravitation_on_the_Moon.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\bin\Release\Problem02_Gravitation_on_the_Moon.exe
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\bin\Release\Problem02_Gravitation_on_the_Moon.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\obj\x86\Release\Problem02_Gravitation_on_the_Moon.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem02_Gravitation_on_the_Moon\Problem02_Gravitation_on_the_Moon\obj\x86\Release\Problem02_Gravitation_on_the_Moon.pdb

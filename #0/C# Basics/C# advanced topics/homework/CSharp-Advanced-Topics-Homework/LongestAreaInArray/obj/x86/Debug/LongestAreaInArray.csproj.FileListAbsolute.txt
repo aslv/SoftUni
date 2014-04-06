@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestAreaInArray\bin\Debug\LongestAreaInArray.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestAreaInArray\bin\Debug\LongestAreaInArray.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestAreaInArray\obj\x86\Debug\LongestAreaInArray.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestAreaInArray\obj\x86\Debug\LongestAreaInArray.pdb

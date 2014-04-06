@@ -1,0 +1,12 @@
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem04_Rectangles\bin\Release\Problem04_Rectangles.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem04_Rectangles\bin\Release\Problem04_Rectangles.pdb
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem04_Rectangles\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem04_Rectangles\obj\x86\Release\Problem04_Rectangles.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem04_Rectangles\obj\x86\Release\Problem04_Rectangles.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\obj\x86\Release\Problem04_Rectangles.exe
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\obj\x86\Release\Problem04_Rectangles.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\bin\Release\Problem04_Rectangles.exe
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\bin\Release\Problem04_Rectangles.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\obj\x86\Release\Problem04_Rectangles.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem04_Rectangles\Problem04_Rectangles\obj\x86\Release\Problem04_Rectangles.pdb

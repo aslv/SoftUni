@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb

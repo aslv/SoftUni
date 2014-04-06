@@ -1,0 +1,15 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\MyName\obj\Debug\MyName.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\MyName\obj\Debug\MyName.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\MyName\bin\Debug\MyName.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\MyName\bin\Debug\MyName.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\obj\Debug\MyName.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\obj\Debug\MyName.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\MyName.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\MyName.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\MyName\obj\Debug\2.MyName.csprojResolveAssemblyReference.cache

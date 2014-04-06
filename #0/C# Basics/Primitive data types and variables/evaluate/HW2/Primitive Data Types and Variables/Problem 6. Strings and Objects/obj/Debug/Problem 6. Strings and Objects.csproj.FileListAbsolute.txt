@@ -1,0 +1,8 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

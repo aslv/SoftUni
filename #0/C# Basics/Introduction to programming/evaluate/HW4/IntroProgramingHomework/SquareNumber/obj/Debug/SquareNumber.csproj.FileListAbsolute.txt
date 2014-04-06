@@ -1,0 +1,5 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SquareNumber\bin\Debug\SquareNumber.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SquareNumber\bin\Debug\SquareNumber.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SquareNumber\bin\Debug\SquareNumber.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SquareNumber\obj\Debug\SquareNumber.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SquareNumber\obj\Debug\SquareNumber.pdb

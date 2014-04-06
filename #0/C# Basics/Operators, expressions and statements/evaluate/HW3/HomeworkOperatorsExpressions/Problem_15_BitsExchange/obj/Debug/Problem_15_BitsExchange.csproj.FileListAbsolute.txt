@@ -1,0 +1,12 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_15_BitsExchange\bin\Debug\Problem_15_BitsExchange.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_15_BitsExchange\bin\Debug\Problem_15_BitsExchange.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_15_BitsExchange\bin\Debug\Problem_15_BitsExchange.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_15_BitsExchange\obj\Debug\Problem_15_BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_15_BitsExchange\obj\Debug\Problem_15_BitsExchange.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_15_BitsExchange\obj\Debug\Problem_15_BitsExchange.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_15_BitsExchange\bin\Debug\Problem_15_BitsExchange.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_15_BitsExchange\obj\Debug\Problem_15_BitsExchange.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_15_BitsExchange\obj\Debug\Problem_15_BitsExchange.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_15_BitsExchange\bin\Debug\Problem_15_BitsExchange.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_15_BitsExchange\bin\Debug\Problem_15_BitsExchange.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_15_BitsExchange\obj\Debug\Problem_15_BitsExchange.csprojResolveAssemblyReference.cache

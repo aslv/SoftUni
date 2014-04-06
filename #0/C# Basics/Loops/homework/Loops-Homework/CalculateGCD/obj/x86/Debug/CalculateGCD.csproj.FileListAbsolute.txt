@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateGCD\bin\Debug\CalculateGCD.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateGCD\bin\Debug\CalculateGCD.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateGCD\obj\x86\Debug\CalculateGCD.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateGCD\obj\x86\Debug\CalculateGCD.pdb

@@ -1,0 +1,5 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\AfterTenYears\obj\Debug\AfterTenYears.csprojResolveAssemblyReference.cache
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\AfterTenYears\bin\Debug\AfterTenYears.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\AfterTenYears\bin\Debug\AfterTenYears.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\AfterTenYears\obj\Debug\AfterTenYears.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\AfterTenYears\obj\Debug\AfterTenYears.pdb

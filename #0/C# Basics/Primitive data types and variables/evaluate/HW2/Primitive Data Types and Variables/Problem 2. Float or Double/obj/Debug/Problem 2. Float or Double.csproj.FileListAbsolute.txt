@@ -1,0 +1,17 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem 2. Float or Double.csprojResolveAssemblyReference.cache

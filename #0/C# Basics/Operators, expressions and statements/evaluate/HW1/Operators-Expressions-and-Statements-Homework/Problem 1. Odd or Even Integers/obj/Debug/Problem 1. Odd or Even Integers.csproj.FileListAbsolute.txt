@@ -1,0 +1,9 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\obj\Debug\Problem 1. Odd or Even Integers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\obj\Debug\Problem_1.Odd_or_Even_Integers.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\obj\Debug\Problem_1.Odd_or_Even_Integers.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\bin\Debug\Problem_1.Odd_or_Even_Integers.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\obj\Debug\Problem_1.Odd_or_Even_Integers.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 1. Odd or Even Integers\obj\Debug\Problem_1.Odd_or_Even_Integers.pdb

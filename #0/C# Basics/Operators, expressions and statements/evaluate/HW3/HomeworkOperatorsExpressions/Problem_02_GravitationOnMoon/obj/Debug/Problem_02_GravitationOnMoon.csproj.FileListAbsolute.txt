@@ -1,0 +1,5 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_02_GravitationOnMoon\bin\Debug\Problem_02_GravitationOnMoon.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_02_GravitationOnMoon\bin\Debug\Problem_02_GravitationOnMoon.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_02_GravitationOnMoon\bin\Debug\Problem_02_GravitationOnMoon.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_02_GravitationOnMoon\obj\Debug\Problem_02_GravitationOnMoon.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_02_GravitationOnMoon\obj\Debug\Problem_02_GravitationOnMoon.pdb

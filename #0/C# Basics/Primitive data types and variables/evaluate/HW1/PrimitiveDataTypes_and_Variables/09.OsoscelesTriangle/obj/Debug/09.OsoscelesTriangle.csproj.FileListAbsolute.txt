@@ -1,0 +1,6 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\09.OsoscelesTriangle\bin\Debug\09.OsoscelesTriangle.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\09.OsoscelesTriangle\bin\Debug\09.OsoscelesTriangle.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\09.OsoscelesTriangle\bin\Debug\09.OsoscelesTriangle.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\09.OsoscelesTriangle\obj\Debug\09.OsoscelesTriangle.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\09.OsoscelesTriangle\obj\Debug\09.OsoscelesTriangle.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\09.OsoscelesTriangle\obj\Debug\09.OsoscelesTriangle.csprojResolveAssemblyReference.cache

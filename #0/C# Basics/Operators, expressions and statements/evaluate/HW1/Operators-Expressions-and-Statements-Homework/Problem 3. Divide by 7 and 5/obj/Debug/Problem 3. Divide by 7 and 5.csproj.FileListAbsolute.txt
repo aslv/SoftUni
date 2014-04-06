@@ -1,0 +1,9 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\obj\Debug\Problem 3. Divide by 7 and 5.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.pdb

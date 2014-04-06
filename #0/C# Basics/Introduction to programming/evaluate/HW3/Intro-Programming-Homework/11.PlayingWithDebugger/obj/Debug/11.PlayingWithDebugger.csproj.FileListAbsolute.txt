@@ -1,0 +1,8 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.PlayingWithDebugger\bin\Debug\11.PlayingWithDebugger.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.PlayingWithDebugger\bin\Debug\11.PlayingWithDebugger.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.PlayingWithDebugger\bin\Debug\11.PlayingWithDebugger.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.PlayingWithDebugger\obj\Debug\11.PlayingWithDebugger.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.PlayingWithDebugger\obj\Debug\11.PlayingWithDebugger.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.PlayingWithDebugger\bin\Debug\11.PlayingWithDebugger.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.PlayingWithDebugger\obj\Debug\11.PlayingWithDebugger.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.PlayingWithDebugger\obj\Debug\11.PlayingWithDebugger.pdb

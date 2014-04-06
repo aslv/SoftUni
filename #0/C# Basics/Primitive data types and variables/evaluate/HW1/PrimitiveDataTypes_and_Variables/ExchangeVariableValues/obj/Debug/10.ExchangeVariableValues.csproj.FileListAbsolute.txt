@@ -1,0 +1,18 @@
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Deni\documents\visual studio 2013\Projects\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW1\PrimitiveDataTypes_and_Variables\ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.csprojResolveAssemblyReference.cache

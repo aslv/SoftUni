@@ -1,0 +1,30 @@
+1. Java -  Java is a class-based, object-oriented programming language developed by Sun Microsystems in the 1990s.
+It's one of the most in-demand programming languages, a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system.
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, Both are class-based object-oriented.
+
+
+
+
+2. C - A general-purpose, imperative programming language developed in the early '70s, C is the oldest and most widely used language. 
+C is mostly used for implementing operating systems and embedded applications.
+Because it provides the foundation for many other languages, it is advisable to learn C (and C++) before moving on to others.
+The first language of the C line is the oldes and therefore it's the most complicated laguage between C, C++ and C#. It includes alot of keywords which are necessary for writing a good code.
+
+
+
+3. C++ - C++ is an intermediate-level language with object-oriented programming features, originally designed to enhance the C language. 
+C++ powers major software like Firefox, Winamp and Adobe programs. 
+It's used to develop systems software, application software, high-performance server and client applications and video games.
+C++ is different from C# because it's not so user friendly. You have to write more lines of code (compared with C#) in order to make the program you want, but it's more punctual.
+
+
+
+4. C# - Pronounced "C-sharp," C# is a multi-paradigm language developed by Microsoft as part of its .NET initiative. 
+Combining principles from C and C++, C# is a general-purpose language used to develop software for Microsoft and Windows platforms.
+
+
+
+
+5. Objective-C - Objective-C is a general-purpose, object-oriented programming language used by the Apple operating system. 
+It powers Apple's OS X and iOS, as well as its APIs, and can be used to create iPhone apps, which has generated a huge demand for this once-outmoded programming language.
+Objective-C is like C# in a way that it's used on a specific platform (C# Microsoft platflorms, Objective-C - Apple's)

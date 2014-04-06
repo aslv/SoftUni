@@ -1,0 +1,5 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SequenceLoop\bin\Debug\SequenceLoop.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SequenceLoop\bin\Debug\SequenceLoop.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SequenceLoop\bin\Debug\SequenceLoop.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SequenceLoop\obj\Debug\SequenceLoop.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\SequenceLoop\obj\Debug\SequenceLoop.pdb

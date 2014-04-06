@@ -1,0 +1,5 @@
+c:\users\batven\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+c:\users\batven\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\batven\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+c:\users\batven\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\batven\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb

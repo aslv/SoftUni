@@ -1,0 +1,8 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb

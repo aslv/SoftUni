@@ -1,0 +1,17 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem 3. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache

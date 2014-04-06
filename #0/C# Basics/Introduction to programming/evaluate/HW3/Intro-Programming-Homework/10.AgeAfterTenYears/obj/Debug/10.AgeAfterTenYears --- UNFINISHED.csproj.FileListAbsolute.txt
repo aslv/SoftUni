@@ -1,0 +1,6 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears --- UNFINISHED.csprojResolveAssemblyReference.cache

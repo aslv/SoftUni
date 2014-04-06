@@ -1,0 +1,8 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\bin\Debug\Problem_12_ExtractBitFromInteger.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\bin\Debug\Problem_12_ExtractBitFromInteger.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\bin\Debug\Problem_12_ExtractBitFromInteger.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\obj\Debug\Problem_12_ExtractBitFromInteger.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\obj\Debug\Problem_12_ExtractBitFromInteger.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\bin\Debug\Problem_12_ExtractBitFromInteger.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\obj\Debug\Problem_12_ExtractBitFromInteger.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_12_ExtractBitFromInteger\obj\Debug\Problem_12_ExtractBitFromInteger.pdb

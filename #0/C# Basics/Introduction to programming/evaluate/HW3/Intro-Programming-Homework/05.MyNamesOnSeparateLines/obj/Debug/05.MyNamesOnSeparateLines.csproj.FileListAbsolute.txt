@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\05.MyNamesOnSeparateLines.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\05.MyNamesOnSeparateLines.pdb

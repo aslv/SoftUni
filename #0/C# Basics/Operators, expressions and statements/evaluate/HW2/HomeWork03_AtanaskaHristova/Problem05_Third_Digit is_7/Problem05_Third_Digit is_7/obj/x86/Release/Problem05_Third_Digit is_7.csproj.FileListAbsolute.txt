@@ -1,0 +1,9 @@
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem05_Third_Digit is_7\bin\Release\Problem05_Third_Digit is_7.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem05_Third_Digit is_7\bin\Release\Problem05_Third_Digit is_7.pdb
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem05_Third_Digit is_7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem05_Third_Digit is_7\obj\x86\Release\Problem05_Third_Digit is_7.exe
+C:\Documents and Settings\Nassi\Local Settings\Application Data\Temporary Projects\Problem05_Third_Digit is_7\obj\x86\Release\Problem05_Third_Digit is_7.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem05_Third_Digit is_7\Problem05_Third_Digit is_7\obj\x86\Release\Problem05_Third_Digit is_7.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem05_Third_Digit is_7\Problem05_Third_Digit is_7\obj\x86\Release\Problem05_Third_Digit is_7.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem05_Third_Digit is_7\Problem05_Third_Digit is_7\bin\Release\Problem05_Third_Digit is_7.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem05_Third_Digit is_7\Problem05_Third_Digit is_7\bin\Release\Problem05_Third_Digit is_7.pdb

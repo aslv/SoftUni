@@ -1,0 +1,15 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\10.AgeAfterTenYears.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\10.AgeAfterTenYears.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\10.AgeAfterTenYears\obj\Debug\09.AgeAfterTenYears.csprojResolveAssemblyReference.cache

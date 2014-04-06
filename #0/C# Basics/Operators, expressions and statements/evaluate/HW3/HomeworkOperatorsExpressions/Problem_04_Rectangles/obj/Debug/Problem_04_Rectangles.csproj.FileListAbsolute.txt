@@ -1,0 +1,8 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_04_Rectangles\bin\Debug\Problem_04_Rectangles.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_04_Rectangles\bin\Debug\Problem_04_Rectangles.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_04_Rectangles\bin\Debug\Problem_04_Rectangles.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_04_Rectangles\obj\Debug\Problem_04_Rectangles.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_04_Rectangles\obj\Debug\Problem_04_Rectangles.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_04_Rectangles\bin\Debug\Problem_04_Rectangles.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_04_Rectangles\obj\Debug\Problem_04_Rectangles.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_04_Rectangles\obj\Debug\Problem_04_Rectangles.pdb

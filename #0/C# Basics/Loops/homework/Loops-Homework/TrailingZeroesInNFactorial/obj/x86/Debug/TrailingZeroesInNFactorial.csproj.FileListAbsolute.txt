@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\TrailingZeroesInNFactorial\bin\Debug\TrailingZeroesInNFactorial.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\TrailingZeroesInNFactorial\bin\Debug\TrailingZeroesInNFactorial.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\TrailingZeroesInNFactorial\obj\x86\Debug\TrailingZeroesInNFactorial.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\TrailingZeroesInNFactorial\obj\x86\Debug\TrailingZeroesInNFactorial.pdb

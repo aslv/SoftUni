@@ -1,0 +1,7 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\obj\x86\Debug\CalculateCombination.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\bin\Debug\CalculateCombination.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\bin\Debug\CalculateCombination.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\bin\Debug\CalculateExpression2.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\bin\Debug\CalculateExpression2.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\obj\x86\Debug\CalculateCombination.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateCombination\obj\x86\Debug\CalculateCombination.pdb

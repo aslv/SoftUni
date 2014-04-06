@@ -1,0 +1,7 @@
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\bin\Release\Problem01_Odd_or_Even_Integers1.exe
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\bin\Release\Problem01_Odd_or_Even_Integers1.pdb
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\obj\x86\Release\Problem01_Odd_or_Even_Integers1.exe
+C:\Documents and Settings\Nassi\My Documents\Visual Studio 2010\Projects\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\obj\x86\Release\Problem01_Odd_or_Even_Integers1.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\obj\x86\Release\Problem01_Odd_or_Even_Integers1.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW2\HomeWork03_AtanaskaHristova\Problem01_Odd_or_Even_Integers1\Problem01_Odd_or_Even_Integers1\obj\x86\Release\Problem01_Odd_or_Even_Integers1.pdb

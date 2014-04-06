@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MinMaxSumAndAverageOfNNumbers\obj\x86\Debug\MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MinMaxSumAndAverageOfNNumbers\obj\x86\Debug\MinMaxSumAndAverageOfNNumbers.pdb

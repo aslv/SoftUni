@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimesInGivenRange\obj\x86\Debug\PrimesInGivenRange.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimesInGivenRange\obj\x86\Debug\PrimesInGivenRange.pdb

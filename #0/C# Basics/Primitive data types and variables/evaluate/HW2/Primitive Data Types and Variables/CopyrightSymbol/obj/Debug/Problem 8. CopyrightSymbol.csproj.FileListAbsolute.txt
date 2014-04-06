@@ -1,0 +1,17 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\CopyrightSymbol.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\CopyrightSymbol\obj\Debug\CopyrightSymbol.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\CopyrightSymbol\obj\Debug\CopyrightSymbol.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\obj\Debug\CopyrightSymbol.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\obj\Debug\CopyrightSymbol.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\CopyrightSymbol.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\CopyrightSymbol\obj\Debug\Problem 8. CopyrightSymbol.csprojResolveAssemblyReference.cache

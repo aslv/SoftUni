@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\SpiralMatrix\obj\x86\Debug\SpiralMatrix.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\SpiralMatrix\obj\x86\Debug\SpiralMatrix.pdb

@@ -1,0 +1,27 @@
+1. Visual Studio Express
+This IDE is mostly used by corporate programmers to produce .NET code.
+Pros: Easy to use, Automatic code formatting, Compiles codes.
+Cons: Requires lots of RAM, Overwhelming GUI (lot's of buttons), Expensive
+
+2. Eclipse 
+This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. 
+The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework.
+Pros: Not limited to Microsoft languages and anyone is free to develop plug-ins for different languages and to make the development environment easier to use, aloso is free.
+Cons: Hard to master.
+
+3. Netbeans
+The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. 
+When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. 
+Pros: Not limited to specific platform, free, compiles codes.
+Cons: This is a tough software program to master, slows the computer down.
+
+4.Kate
+Kate is a text editor. Not to be looked down upon as it does a lot more than a regular text edit can do and that is what makes this an indispensable product.
+Pros:Uses linux, code folding.
+Cons: overheading, doesn't compile codes, uses linux.
+
+5. Gedit
+gedit is the official editor of the gnome desktop and comes installed once the system is setup. 
+Very useful for the user that is casually editing code and not undertaking major projects.
+Pros: Uses Linux, Already Installed on gnome systems (don't have to fight with installation).
+Cons: Uses Linux, Doesn't compile codes.

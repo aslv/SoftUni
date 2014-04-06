@@ -1,0 +1,8 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.pdb

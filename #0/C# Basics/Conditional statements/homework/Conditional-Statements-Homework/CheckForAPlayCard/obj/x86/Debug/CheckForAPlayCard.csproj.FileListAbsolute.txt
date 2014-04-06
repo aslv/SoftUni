@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\CheckForAPlayCard\obj\x86\Debug\CheckForAPlayCard.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\CheckForAPlayCard\obj\x86\Debug\CheckForAPlayCard.pdb

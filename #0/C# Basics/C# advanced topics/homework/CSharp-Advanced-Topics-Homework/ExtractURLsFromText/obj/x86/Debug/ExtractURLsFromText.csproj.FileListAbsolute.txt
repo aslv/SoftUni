@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\ExtractURLsFromText\obj\x86\Debug\ExtractURLsFromText.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\ExtractURLsFromText\obj\x86\Debug\ExtractURLsFromText.pdb

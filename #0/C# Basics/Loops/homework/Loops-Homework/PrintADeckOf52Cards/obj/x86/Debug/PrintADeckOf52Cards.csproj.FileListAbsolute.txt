@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\PrintADeckOf52Cards\obj\x86\Debug\PrintADeckOf52Cards.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\PrintADeckOf52Cards\obj\x86\Debug\PrintADeckOf52Cards.pdb

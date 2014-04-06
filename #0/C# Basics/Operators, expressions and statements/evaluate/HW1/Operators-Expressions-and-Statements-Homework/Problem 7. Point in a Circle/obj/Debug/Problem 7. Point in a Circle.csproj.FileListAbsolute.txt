@@ -1,0 +1,8 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.pdb

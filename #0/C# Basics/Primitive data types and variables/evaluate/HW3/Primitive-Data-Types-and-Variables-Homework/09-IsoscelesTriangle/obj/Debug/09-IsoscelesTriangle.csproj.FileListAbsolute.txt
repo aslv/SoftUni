@@ -1,0 +1,16 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\09-IsoscelesTriangle.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\09-IsoscelesTriangle.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\09-IsoscelesTriangle.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\09-IsoscelesTriangle.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.csprojResolveAssemblyReference.cache

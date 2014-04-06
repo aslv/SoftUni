@@ -1,0 +1,15 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\obj\Debug\09.DateAndTime.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\09.DateAndTime\obj\Debug\09.DateAndTime.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\obj\Debug\09.DateAndTime.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\obj\Debug\09.DateAndTime.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\09.DateAndTime.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\09.DateAndTime\obj\Debug\08.DateAndTime.csprojResolveAssemblyReference.cache

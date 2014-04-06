@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersNotDivisibleBy3And7\obj\x86\Debug\NumbersNotDivisibleBy3And7.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersNotDivisibleBy3And7\obj\x86\Debug\NumbersNotDivisibleBy3And7.pdb

@@ -1,0 +1,17 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\HelloCSharp\obj\Debug\01.HelloCSharp.csprojResolveAssemblyReference.cache

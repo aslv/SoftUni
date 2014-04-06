@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersFrom1ToN\obj\x86\Debug\NumbersFrom1ToN.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\NumbersFrom1ToN\obj\x86\Debug\NumbersFrom1ToN.pdb

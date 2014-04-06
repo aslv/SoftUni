@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestNonDecreasingSubsequence\bin\Debug\LongestNonDecreasingSubsequence.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestNonDecreasingSubsequence\bin\Debug\LongestNonDecreasingSubsequence.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestNonDecreasingSubsequence\obj\x86\Debug\LongestNonDecreasingSubsequence.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\LongestNonDecreasingSubsequence\obj\x86\Debug\LongestNonDecreasingSubsequence.pdb

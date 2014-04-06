@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountingAWordInAText\bin\Debug\CountingAWordInAText.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountingAWordInAText\bin\Debug\CountingAWordInAText.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountingAWordInAText\obj\x86\Debug\CountingAWordInAText.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\CountingAWordInAText\obj\x86\Debug\CountingAWordInAText.pdb

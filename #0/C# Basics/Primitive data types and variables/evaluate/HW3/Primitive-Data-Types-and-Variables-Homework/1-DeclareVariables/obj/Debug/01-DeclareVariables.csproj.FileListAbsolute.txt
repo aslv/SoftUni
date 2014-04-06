@@ -1,0 +1,8 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\obj\Debug\1-DeclareVariables.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\obj\Debug\1-DeclareVariables.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\bin\Debug\1-DeclareVariables.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\bin\Debug\1-DeclareVariables.pdb
+C:\Users\UniUser\Downloads\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\obj\Debug\1-DeclareVariables.exe
+C:\Users\UniUser\Downloads\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\obj\Debug\1-DeclareVariables.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\obj\Debug\1-DeclareVariables.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\1-DeclareVariables\obj\Debug\1-DeclareVariables.pdb

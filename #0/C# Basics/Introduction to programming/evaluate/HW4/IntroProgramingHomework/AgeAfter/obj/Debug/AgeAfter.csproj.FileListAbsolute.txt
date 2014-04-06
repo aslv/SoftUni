@@ -1,0 +1,6 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\AgeAfter\bin\Debug\AgeAfter.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\AgeAfter\bin\Debug\AgeAfter.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\AgeAfter\bin\Debug\AgeAfter.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\AgeAfter\obj\Debug\AgeAfter.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\AgeAfter\obj\Debug\AgeAfter.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\AgeAfter\obj\Debug\AgeAfter.csprojResolveAssemblyReference.cache

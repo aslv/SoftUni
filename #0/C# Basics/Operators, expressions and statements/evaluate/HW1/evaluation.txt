@@ -1,0 +1,21 @@
+Mark: Домашното е написано добре.
+Comments:
+Започвам задача по задача:
+
+= Problem 1. Odd or Even Integers --> ОК;
+= Problem 2. Gravitation on the Moon --> добре;
+= Problem 3. Divide by 7 and 5 --> да (понеже 5 и 7 са взаимно прости, можеш да направиш една проверка number % 35 == 0);
+= Problem 4. Rectangles --> да;
+= Problem 5. Is The Third Digit 7 --> правилно;
+= Problem 6. Four-Digit Number --> добре;
+= Problem 7. Point in a Circle --> да;
+= Problem 8. Prime Number Check --> съвсем коректно. Бих ти дал два съвета:
+            1) Няма нужда да се проверява до i < number; достатъчно е да се провери до корена на числото (вкл.) i <= Math.Sqrt(number);
+            2) След като се увериш, че числото е просто, в if-а може да сложиш един break; защото няма нужда да проверяваш след това;
+= Problem 9. Trapezoids --> ОК;
+= Problem 10.  Inside a Circle Outside of a Rectangle --> хммм, тук не се получава. Например при х = 0.9 и у = 0.9 отговорът ти е грешен. Забележи, че условието в isOutsideRectangle ( така, както си го написал(а) ) никога не може да е false;
+= Problem 11. Bitwise Extract Bit 3 --> добре, така е;
+= Problem 12. Extract Bit from Integer --> да.
+
+Като цяло домашното е доста добро. Прави ми добро впечатление, че си именуваш проектите и променливите със смислени и описателни имена. Продължавай все така! :D
+Успех!

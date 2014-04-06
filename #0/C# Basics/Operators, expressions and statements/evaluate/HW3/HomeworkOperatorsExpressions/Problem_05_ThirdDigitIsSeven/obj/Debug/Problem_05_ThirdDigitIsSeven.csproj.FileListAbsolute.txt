@@ -1,0 +1,10 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\bin\Debug\Problem_05_ThirdDigitIsSeven.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\bin\Debug\Problem_05_ThirdDigitIsSeven.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\bin\Debug\Problem_05_ThirdDigitIsSeven.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\obj\Debug\Problem_05_ThirdDigitIsSeven.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\obj\Debug\Problem_05_ThirdDigitIsSeven.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\bin\Debug\Problem_05_ThirdDigitIsSeven.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\obj\Debug\Problem_05_ThirdDigitIsSeven.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\obj\Debug\Problem_05_ThirdDigitIsSeven.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\bin\Debug\Problem_05_ThirdDigitIsSeven.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_05_ThirdDigitIsSeven\bin\Debug\Problem_05_ThirdDigitIsSeven.pdb

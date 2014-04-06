@@ -1,0 +1,17 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\08.ReformatCSharpCode.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\08.ReformatCSharpCode\obj\Debug\08.ReformatCSharpCode.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\08.ReformatCSharpCode\obj\Debug\08.ReformatCSharpCode.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\08.ReformatCSharpCode.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\08.ReformatCSharpCode.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\08.ReformatCSharpCode.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\obj\Debug\08.ReformatCSharpCode.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\obj\Debug\08.ReformatCSharpCode.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\08.ReformatCSharpCode.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\08.ReformatCSharpCode.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\08.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.csprojResolveAssemblyReference.cache

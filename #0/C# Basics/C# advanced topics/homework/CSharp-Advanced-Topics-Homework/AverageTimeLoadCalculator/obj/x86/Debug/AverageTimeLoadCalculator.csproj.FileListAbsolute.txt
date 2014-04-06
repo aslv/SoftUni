@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\AverageTimeLoadCalculator\bin\Debug\AverageTimeLoadCalculator.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\AverageTimeLoadCalculator\bin\Debug\AverageTimeLoadCalculator.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\AverageTimeLoadCalculator\obj\x86\Debug\AverageTimeLoadCalculator.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\AverageTimeLoadCalculator\obj\x86\Debug\AverageTimeLoadCalculator.pdb

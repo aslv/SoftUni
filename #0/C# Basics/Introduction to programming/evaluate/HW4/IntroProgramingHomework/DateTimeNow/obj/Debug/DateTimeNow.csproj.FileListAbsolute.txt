@@ -1,0 +1,5 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\DateTimeNow\bin\Debug\DateTimeNow.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\DateTimeNow\bin\Debug\DateTimeNow.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\DateTimeNow\bin\Debug\DateTimeNow.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\DateTimeNow\obj\Debug\DateTimeNow.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\DateTimeNow\obj\Debug\DateTimeNow.pdb

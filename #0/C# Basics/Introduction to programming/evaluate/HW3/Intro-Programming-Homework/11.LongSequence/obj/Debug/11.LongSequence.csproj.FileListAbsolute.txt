@@ -1,0 +1,6 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.pdb

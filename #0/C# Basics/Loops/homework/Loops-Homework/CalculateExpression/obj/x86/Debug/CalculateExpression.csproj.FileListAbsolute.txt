@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateExpression\bin\Debug\CalculateExpression.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateExpression\bin\Debug\CalculateExpression.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateExpression\obj\x86\Debug\CalculateExpression.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\CalculateExpression\obj\x86\Debug\CalculateExpression.pdb

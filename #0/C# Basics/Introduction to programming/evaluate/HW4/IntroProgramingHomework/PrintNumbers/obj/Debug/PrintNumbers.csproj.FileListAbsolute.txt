@@ -1,0 +1,5 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb

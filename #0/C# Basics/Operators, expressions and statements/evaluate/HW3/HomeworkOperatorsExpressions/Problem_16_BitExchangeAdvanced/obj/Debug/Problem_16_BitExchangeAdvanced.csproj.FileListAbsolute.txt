@@ -1,0 +1,12 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\bin\Debug\Problem_16_BitExchangeAdvanced.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\bin\Debug\Problem_16_BitExchangeAdvanced.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\bin\Debug\Problem_16_BitExchangeAdvanced.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\obj\Debug\Problem_16_BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\obj\Debug\Problem_16_BitExchangeAdvanced.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\obj\Debug\Problem_16_BitExchangeAdvanced.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\bin\Debug\Problem_16_BitExchangeAdvanced.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\obj\Debug\Problem_16_BitExchangeAdvanced.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\obj\Debug\Problem_16_BitExchangeAdvanced.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\bin\Debug\Problem_16_BitExchangeAdvanced.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\bin\Debug\Problem_16_BitExchangeAdvanced.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_16_BitExchangeAdvanced\obj\Debug\Problem_16_BitExchangeAdvanced.csprojResolveAssemblyReference.cache

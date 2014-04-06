@@ -1,0 +1,15 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\obj\Debug\07.PrintASequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\obj\Debug\07.PrintASequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\obj\Debug\07.PrintASequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\obj\Debug\07.PrintASequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\07.PrintASequence\obj\Debug\06.PrintASequence.csprojResolveAssemblyReference.cache

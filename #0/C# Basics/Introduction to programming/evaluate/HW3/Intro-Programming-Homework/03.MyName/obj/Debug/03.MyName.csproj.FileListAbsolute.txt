@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\03.MyName\bin\Debug\03.MyName.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\03.MyName\bin\Debug\03.MyName.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\03.MyName\bin\Debug\03.MyName.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\03.MyName\obj\Debug\03.MyName.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\03.MyName\obj\Debug\03.MyName.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb

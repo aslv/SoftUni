@@ -1,0 +1,17 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\05.MyNamesOnSeparateLines.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\05.MyNamesOnSeparateLines.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\05.MyNamesOnSeparateLines.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\05.MyNamesOnSeparateLines.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\05.MyNamesOnSeparateLines.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\05.MyNamesOnSeparateLines\obj\Debug\04.MyNamesOnSeparateLines.csprojResolveAssemblyReference.cache

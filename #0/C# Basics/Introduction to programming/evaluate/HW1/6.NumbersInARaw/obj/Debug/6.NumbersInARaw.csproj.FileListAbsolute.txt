@@ -1,0 +1,16 @@
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\6.NumbersInARaw\bin\Debug\6.NumbersInARaw.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\6.NumbersInARaw\bin\Debug\6.NumbersInARaw.pdb
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\6.NumbersInARaw\obj\Debug\6.NumbersInARaw.csprojResolveAssemblyReference.cache
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\6.NumbersInARaw\obj\Debug\6.NumbersInARaw.exe
+C:\Users\batven\Documents\Visual Studio 2013\Projects\HelloCSharp\6.NumbersInARaw\obj\Debug\6.NumbersInARaw.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\obj\Debug\6.NumbersInARaw.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\obj\Debug\6.NumbersInARaw.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\6.NumbersInARaw.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\6.NumbersInARaw.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\6.NumbersInARaw\obj\Debug\6.NumbersInARaw.csprojResolveAssemblyReference.cache

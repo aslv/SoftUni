@@ -1,0 +1,17 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\obj\Debug\11.LongSequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\11.LongSequence.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\11.LongSequence\obj\Debug\10.LongSequence.csprojResolveAssemblyReference.cache

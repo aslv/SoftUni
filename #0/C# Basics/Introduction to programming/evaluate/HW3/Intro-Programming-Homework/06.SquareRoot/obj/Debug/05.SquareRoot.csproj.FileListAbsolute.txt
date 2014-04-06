@@ -1,0 +1,17 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\obj\Debug\06.SquareRoot.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\obj\Debug\06.SquareRoot.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.exe.config
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\obj\Debug\06.SquareRoot.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\obj\Debug\06.SquareRoot.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.exe
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\06.SquareRoot.pdb
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Introduction to programming\evaluate\HW3\Intro-Programming-Homework\06.SquareRoot\obj\Debug\05.SquareRoot.csprojResolveAssemblyReference.cache

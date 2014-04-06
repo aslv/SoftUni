@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\NumberAsWords\bin\Debug\NumberAsWords.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\NumberAsWords\bin\Debug\NumberAsWords.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\NumberAsWords\obj\x86\Debug\NumberAsWords.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\homework\Conditional-Statements-Homework\NumberAsWords\obj\x86\Debug\NumberAsWords.pdb

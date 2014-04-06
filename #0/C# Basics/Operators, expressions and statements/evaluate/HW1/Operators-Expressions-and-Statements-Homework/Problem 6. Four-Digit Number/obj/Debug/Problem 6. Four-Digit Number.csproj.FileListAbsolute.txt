@@ -1,0 +1,12 @@
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe.config
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.pdb
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem 6. Four-Digit Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.exe
+D:\SoftUni\Lecture3\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW1\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem 6. Four-Digit Number.csprojResolveAssemblyReference.cache

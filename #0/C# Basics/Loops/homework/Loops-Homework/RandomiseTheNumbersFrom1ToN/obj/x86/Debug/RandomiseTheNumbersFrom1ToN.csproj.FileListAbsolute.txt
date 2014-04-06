@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\RandomiseTheNumbersFrom1ToN\bin\Debug\RandomiseTheNumbersFrom1ToN.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\RandomiseTheNumbersFrom1ToN\bin\Debug\RandomiseTheNumbersFrom1ToN.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\RandomiseTheNumbersFrom1ToN\obj\x86\Debug\RandomiseTheNumbersFrom1ToN.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\RandomiseTheNumbersFrom1ToN\obj\x86\Debug\RandomiseTheNumbersFrom1ToN.pdb

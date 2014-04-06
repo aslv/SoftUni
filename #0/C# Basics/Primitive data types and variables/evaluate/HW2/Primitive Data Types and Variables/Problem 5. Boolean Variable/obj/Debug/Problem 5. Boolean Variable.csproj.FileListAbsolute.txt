@@ -1,0 +1,8 @@
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe.config
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.pdb
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.exe
+C:\Users\RaFa\Desktop\UNIVERSITY\Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe.config
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW2\Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.pdb

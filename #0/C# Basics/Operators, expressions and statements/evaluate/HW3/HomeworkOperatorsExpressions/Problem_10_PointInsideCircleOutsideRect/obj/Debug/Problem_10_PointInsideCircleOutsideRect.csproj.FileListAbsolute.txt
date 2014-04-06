@@ -1,0 +1,9 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\bin\Debug\Problem_10_PointInsideCircleOutsideRect.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\bin\Debug\Problem_10_PointInsideCircleOutsideRect.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\bin\Debug\Problem_10_PointInsideCircleOutsideRect.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\obj\Debug\Problem_10_PointInsideCircleOutsideRect.csprojResolveAssemblyReference.cache
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\obj\Debug\Problem_10_PointInsideCircleOutsideRect.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\obj\Debug\Problem_10_PointInsideCircleOutsideRect.pdb
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\bin\Debug\Problem_10_PointInsideCircleOutsideRect.exe.config
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\obj\Debug\Problem_10_PointInsideCircleOutsideRect.exe
+D:\SoftUni\#0\C# Basics\Operators, expressions and statements\evaluate\HW3\HomeworkOperatorsExpressions\Problem_10_PointInsideCircleOutsideRect\obj\Debug\Problem_10_PointInsideCircleOutsideRect.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimeChecker\bin\Debug\PrimeChecker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimeChecker\bin\Debug\PrimeChecker.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimeChecker\obj\x86\Debug\PrimeChecker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\homework\CSharp-Advanced-Topics-Homework\PrimeChecker\obj\x86\Debug\PrimeChecker.pdb

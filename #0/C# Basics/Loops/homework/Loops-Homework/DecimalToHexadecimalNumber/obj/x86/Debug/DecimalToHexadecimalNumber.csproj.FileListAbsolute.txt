@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\DecimalToHexadecimalNumber\obj\x86\Debug\DecimalToHexadecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\DecimalToHexadecimalNumber\obj\x86\Debug\DecimalToHexadecimalNumber.pdb

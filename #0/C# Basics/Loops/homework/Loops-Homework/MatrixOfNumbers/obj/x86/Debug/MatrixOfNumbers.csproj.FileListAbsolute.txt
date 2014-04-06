@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MatrixOfNumbers\obj\x86\Debug\MatrixOfNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\homework\Loops-Homework\MatrixOfNumbers\obj\x86\Debug\MatrixOfNumbers.pdb

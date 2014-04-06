@@ -1,0 +1,7 @@
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\bin\Debug\10-ExchangeValues.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\bin\Debug\10-ExchangeValues.pdb
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\obj\Debug\10-ExchangeValues.csprojResolveAssemblyReference.cache
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\obj\Debug\10-ExchangeValues.exe
+C:\Users\Tr00peR\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\obj\Debug\10-ExchangeValues.pdb
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\obj\Debug\10-ExchangeValues.exe
+D:\SoftUni\#0\C# Basics\Primitive data types and variables\evaluate\HW3\Primitive-Data-Types-and-Variables-Homework\10-ExchangeValues\obj\Debug\10-ExchangeValues.pdb

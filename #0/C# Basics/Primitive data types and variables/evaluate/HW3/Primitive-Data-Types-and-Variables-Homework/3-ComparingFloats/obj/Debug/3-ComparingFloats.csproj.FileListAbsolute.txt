@@ -1,0 +1,5 @@
+c:\users\tr00per\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\3-ComparingFloats\bin\Debug\3-ComparingFloats.exe
+c:\users\tr00per\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\3-ComparingFloats\bin\Debug\3-ComparingFloats.pdb
+c:\users\tr00per\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\3-ComparingFloats\obj\Debug\3-ComparingFloats.csprojResolveAssemblyReference.cache
+c:\users\tr00per\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\3-ComparingFloats\obj\Debug\3-ComparingFloats.exe
+c:\users\tr00per\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\3-ComparingFloats\obj\Debug\3-ComparingFloats.pdb

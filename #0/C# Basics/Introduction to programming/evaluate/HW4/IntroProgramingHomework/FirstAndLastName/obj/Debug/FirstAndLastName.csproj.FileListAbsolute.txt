@@ -1,0 +1,6 @@
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\FirstAndLastName\bin\Debug\FirstAndLastName.exe.config
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\FirstAndLastName\bin\Debug\FirstAndLastName.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\FirstAndLastName\bin\Debug\FirstAndLastName.pdb
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\FirstAndLastName\obj\Debug\FirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\FirstAndLastName\obj\Debug\FirstAndLastName.exe
+C:\Users\007\Desktop\Visual studio Shit\Softuni Homework\IntroProgramingHomework\FirstAndLastName\obj\Debug\FirstAndLastName.pdb

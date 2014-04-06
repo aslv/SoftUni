@@ -1,0 +1,5 @@
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_03_DivideBySevenAndFive\bin\Debug\Problem_03_DivideBySevenAndFive.exe.config
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_03_DivideBySevenAndFive\bin\Debug\Problem_03_DivideBySevenAndFive.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_03_DivideBySevenAndFive\bin\Debug\Problem_03_DivideBySevenAndFive.pdb
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_03_DivideBySevenAndFive\obj\Debug\Problem_03_DivideBySevenAndFive.exe
+C:\Users\1501\Documents\Visual Studio 2012\Projects\HomeworkOperatorsExpressions\Problem_03_DivideBySevenAndFive\obj\Debug\Problem_03_DivideBySevenAndFive.pdb

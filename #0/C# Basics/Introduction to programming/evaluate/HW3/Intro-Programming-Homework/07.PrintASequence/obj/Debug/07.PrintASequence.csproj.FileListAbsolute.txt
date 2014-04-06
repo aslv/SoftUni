@@ -1,0 +1,5 @@
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.exe.config
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\bin\Debug\07.PrintASequence.pdb
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\obj\Debug\07.PrintASequence.exe
+C:\Users\Vladi\Desktop\CSharp programs\Intro-Programming-Homework\07.PrintASequence\obj\Debug\07.PrintASequence.pdb
