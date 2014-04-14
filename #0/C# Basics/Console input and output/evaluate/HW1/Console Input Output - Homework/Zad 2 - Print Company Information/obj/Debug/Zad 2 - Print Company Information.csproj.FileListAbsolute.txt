@@ -1,0 +1,9 @@
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 2 - Print Company Information\bin\Debug\Zad 2 - Print Company Information.exe.config
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 2 - Print Company Information\bin\Debug\Zad 2 - Print Company Information.exe
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 2 - Print Company Information\bin\Debug\Zad 2 - Print Company Information.pdb
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 2 - Print Company Information\obj\Debug\Zad 2 - Print Company Information.exe
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 2 - Print Company Information\obj\Debug\Zad 2 - Print Company Information.pdb
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 2 - Print Company Information\obj\Debug\Zad 2 - Print Company Information.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 2 - Print Company Information\bin\Debug\Zad 2 - Print Company Information.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 2 - Print Company Information\obj\Debug\Zad 2 - Print Company Information.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 2 - Print Company Information\obj\Debug\Zad 2 - Print Company Information.pdb

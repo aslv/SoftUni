@@ -1,0 +1,9 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 11. NumberAsWords\bin\Debug\Problem_11.NumberAsWords.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 11. NumberAsWords\bin\Debug\Problem_11.NumberAsWords.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 11. NumberAsWords\bin\Debug\Problem_11.NumberAsWords.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 11. NumberAsWords\obj\Debug\Problem 11. NumberAsWords.csprojResolveAssemblyReference.cache
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 11. NumberAsWords\obj\Debug\Problem_11.NumberAsWords.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 11. NumberAsWords\obj\Debug\Problem_11.NumberAsWords.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 11. NumberAsWords\bin\Debug\Problem_11.NumberAsWords.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 11. NumberAsWords\obj\Debug\Problem_11.NumberAsWords.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 11. NumberAsWords\obj\Debug\Problem_11.NumberAsWords.pdb

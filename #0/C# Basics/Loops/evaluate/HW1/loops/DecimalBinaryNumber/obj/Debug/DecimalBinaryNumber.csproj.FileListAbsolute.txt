@@ -1,0 +1,17 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\DecimalBinaryNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalBinaryNumber\obj\Debug\DecimalBinaryNumber.csprojResolveAssemblyReference.cache

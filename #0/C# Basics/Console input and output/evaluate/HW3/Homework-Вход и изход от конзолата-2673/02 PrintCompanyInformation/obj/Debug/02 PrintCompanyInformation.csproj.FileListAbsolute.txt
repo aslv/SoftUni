@@ -1,0 +1,8 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\02 PrintCompanyInformation\bin\Debug\02 PrintCompanyInformation.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\02 PrintCompanyInformation\bin\Debug\02 PrintCompanyInformation.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\02 PrintCompanyInformation\bin\Debug\02 PrintCompanyInformation.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\02 PrintCompanyInformation\obj\Debug\02 PrintCompanyInformation.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\02 PrintCompanyInformation\obj\Debug\02 PrintCompanyInformation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\02 PrintCompanyInformation\bin\Debug\02 PrintCompanyInformation.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\02 PrintCompanyInformation\obj\Debug\02 PrintCompanyInformation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\02 PrintCompanyInformation\obj\Debug\02 PrintCompanyInformation.pdb

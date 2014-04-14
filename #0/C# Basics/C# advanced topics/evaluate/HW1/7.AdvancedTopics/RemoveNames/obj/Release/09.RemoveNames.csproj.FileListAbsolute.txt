@@ -1,0 +1,6 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\RemoveNames\bin\Release\RemoveNames.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\RemoveNames\bin\Release\RemoveNames.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\RemoveNames\bin\Release\RemoveNames.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\RemoveNames\obj\Release\09.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\RemoveNames\obj\Release\RemoveNames.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\RemoveNames\obj\Release\RemoveNames.pdb

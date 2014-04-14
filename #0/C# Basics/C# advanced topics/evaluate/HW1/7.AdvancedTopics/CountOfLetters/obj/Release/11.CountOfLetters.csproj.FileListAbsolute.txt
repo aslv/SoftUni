@@ -1,0 +1,6 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\CountOfLetters\bin\Release\CountOfLetters.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\CountOfLetters\bin\Release\CountOfLetters.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\CountOfLetters\bin\Release\CountOfLetters.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\CountOfLetters\obj\Release\11.CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\CountOfLetters\obj\Release\CountOfLetters.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\CountOfLetters\obj\Release\CountOfLetters.pdb

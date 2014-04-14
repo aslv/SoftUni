@@ -1,0 +1,6 @@
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.csprojResolveAssemblyReference.cache

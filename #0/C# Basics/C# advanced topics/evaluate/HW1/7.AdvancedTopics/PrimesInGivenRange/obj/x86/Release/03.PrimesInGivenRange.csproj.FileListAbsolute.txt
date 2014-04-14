@@ -1,0 +1,5 @@
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimesInGivenRange\bin\Release\PrimesInGivenRange.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimesInGivenRange\bin\Release\PrimesInGivenRange.pdb
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimesInGivenRange\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimesInGivenRange\obj\x86\Release\PrimesInGivenRange.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimesInGivenRange\obj\x86\Release\PrimesInGivenRange.pdb

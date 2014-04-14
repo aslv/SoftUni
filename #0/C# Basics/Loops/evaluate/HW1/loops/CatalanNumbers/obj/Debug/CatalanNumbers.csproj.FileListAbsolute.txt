@@ -1,0 +1,18 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\bin\Debug\Zad 7 - Sum of 5 Numbers.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\bin\Debug\Zad 7 - Sum of 5 Numbers.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\bin\Debug\Zad 7 - Sum of 5 Numbers.pdb
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\obj\Debug\Zad 7 - Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\obj\Debug\Zad 7 - Sum of 5 Numbers.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\obj\Debug\Zad 7 - Sum of 5 Numbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\bin\Debug\Zad 7 - Sum of 5 Numbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\obj\Debug\Zad 7 - Sum of 5 Numbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 7 - Sum of 5 Numbers\obj\Debug\Zad 7 - Sum of 5 Numbers.pdb

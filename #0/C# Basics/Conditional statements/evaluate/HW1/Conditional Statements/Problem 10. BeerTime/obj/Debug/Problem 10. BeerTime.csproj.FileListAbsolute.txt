@@ -1,0 +1,18 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 10. BeerTime\bin\Debug\Problem_10.BeerTime.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 10. BeerTime\bin\Debug\Problem_10.BeerTime.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 10. BeerTime\bin\Debug\Problem_10.BeerTime.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 10. BeerTime\obj\Debug\Problem 10. BeerTime.csprojResolveAssemblyReference.cache
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 10. BeerTime\obj\Debug\Problem_10.BeerTime.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 10. BeerTime\obj\Debug\Problem_10.BeerTime.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\Problem_10.BeerTime.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\obj\Debug\Problem_10.BeerTime.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\obj\Debug\Problem_10.BeerTime.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\Problem_10.BeerTime.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\Problem_10.BeerTime.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 10. BeerTime\obj\Debug\Problem 10. BeerTime.csprojResolveAssemblyReference.cache

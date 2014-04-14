@@ -1,0 +1,8 @@
+C:\Users\musti\Desktop\domashni\Solution1\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.exe
+C:\Users\musti\Desktop\domashni\Solution1\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.pdb
+C:\Users\musti\Desktop\domashni\Solution1\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.exe
+C:\Users\musti\Desktop\domashni\Solution1\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.pdb

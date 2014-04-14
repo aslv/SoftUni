@@ -1,0 +1,5 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\MatrixOfPalindromes\bin\Release\MatrixOfPalindromes.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\MatrixOfPalindromes\bin\Release\MatrixOfPalindromes.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\MatrixOfPalindromes\bin\Release\MatrixOfPalindromes.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\MatrixOfPalindromes\obj\Release\MatrixOfPalindromes.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\MatrixOfPalindromes\obj\Release\MatrixOfPalindromes.pdb

@@ -1,0 +1,8 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\03 CirclePerimeterAndArea\bin\Debug\03 CirclePerimeterAndArea.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\03 CirclePerimeterAndArea\obj\Debug\03 CirclePerimeterAndArea.pdb

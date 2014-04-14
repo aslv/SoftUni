@@ -1,0 +1,9 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\04.PrintingDeckOf52Cards\bin\Debug\04.PrintingDeckOf52Cards.exe.config
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\04.PrintingDeckOf52Cards\bin\Debug\04.PrintingDeckOf52Cards.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\04.PrintingDeckOf52Cards\bin\Debug\04.PrintingDeckOf52Cards.pdb
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\04.PrintingDeckOf52Cards\obj\Debug\04.PrintingDeckOf52Cards.csprojResolveAssemblyReference.cache
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\04.PrintingDeckOf52Cards\obj\Debug\04.PrintingDeckOf52Cards.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\04.PrintingDeckOf52Cards\obj\Debug\04.PrintingDeckOf52Cards.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\04.PrintingDeckOf52Cards\bin\Debug\04.PrintingDeckOf52Cards.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\04.PrintingDeckOf52Cards\obj\Debug\04.PrintingDeckOf52Cards.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\04.PrintingDeckOf52Cards\obj\Debug\04.PrintingDeckOf52Cards.pdb

@@ -1,0 +1,19 @@
+Mark: Домашното е написано добре.
+Comments:
+Започвам задача по задача:
+
+= 1.SumOf3Integers --> добре;
+= 2.PrintCompanyInformation --> да;
+= 3.CirclePerimeterAndArea --> точно така :) ;
+= 4.NumberComparer --> хитро;
+= 5.FormattingNumbers --> не се получава така, както го искаш, защото винаги си оставя 10 интервала без значение колко дълго е изведеното число; аз го направих така: Console.WriteLine("|{0,-10:X}|{1}|{2,10:0.00}|{3,-10:F3}|", a, Convert.ToString(a, 2).PadLeft(10, '0'), b, c);
+= 6.QuadraticEquation --> не работи, ако а = 0 :( ;
+= 7.SumOf5Numbers --> добре;
+= 8.NumbersFrom1ToN --> ОК ( когато искаш да изведеш празен ред, използвай само Console.WriteLine(); );
+= 9.SumOfNNumbers --> да ( sum = sum + num; е еквивалентно на sum += num; );
+= 10.FibonacciNumbers --> добре;
+= 11.NumbersDividedByANumber --> и така става, но помисли за по-оптимално решение :)
+
+Като цяло домашното е добро. Харесва ми, че си именуваш смислено и описателно променливите и файловете си, и че форматираш адекватно кода си.
+
+Успех!

@@ -1,0 +1,8 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\MinMaxSumAverageofNNumbers\bin\Debug\MinMaxSumAverageofNNumbers.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\MinMaxSumAverageofNNumbers\bin\Debug\MinMaxSumAverageofNNumbers.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\MinMaxSumAverageofNNumbers\bin\Debug\MinMaxSumAverageofNNumbers.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\MinMaxSumAverageofNNumbers\obj\Debug\MinMaxSumAverageofNNumbers.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\MinMaxSumAverageofNNumbers\obj\Debug\MinMaxSumAverageofNNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\MinMaxSumAverageofNNumbers\bin\Debug\MinMaxSumAverageofNNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\MinMaxSumAverageofNNumbers\obj\Debug\MinMaxSumAverageofNNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\MinMaxSumAverageofNNumbers\obj\Debug\MinMaxSumAverageofNNumbers.pdb

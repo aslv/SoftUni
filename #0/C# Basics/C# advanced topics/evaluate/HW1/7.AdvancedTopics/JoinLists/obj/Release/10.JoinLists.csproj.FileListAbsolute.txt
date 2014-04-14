@@ -1,0 +1,6 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\JoinLists\bin\Release\JoinLists.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\JoinLists\bin\Release\JoinLists.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\JoinLists\bin\Release\JoinLists.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\JoinLists\obj\Release\10.JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\JoinLists\obj\Release\JoinLists.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\JoinLists\obj\Release\JoinLists.pdb

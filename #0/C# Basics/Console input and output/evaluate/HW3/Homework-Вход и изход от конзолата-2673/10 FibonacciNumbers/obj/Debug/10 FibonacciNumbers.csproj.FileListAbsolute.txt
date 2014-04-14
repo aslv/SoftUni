@@ -1,0 +1,17 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.csprojResolveAssemblyReference.cache

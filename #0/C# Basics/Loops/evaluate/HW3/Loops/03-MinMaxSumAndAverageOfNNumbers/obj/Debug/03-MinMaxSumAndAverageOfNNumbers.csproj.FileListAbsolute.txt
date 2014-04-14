@@ -1,0 +1,6 @@
+D:\SoftwareUniversityCourses\Homework\Loops\03-MinMaxSumAndAverageOfNNumbers\bin\Debug\03-MinMaxSumAndAverageOfNNumbers.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\03-MinMaxSumAndAverageOfNNumbers\bin\Debug\03-MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftwareUniversityCourses\Homework\Loops\03-MinMaxSumAndAverageOfNNumbers\bin\Debug\03-MinMaxSumAndAverageOfNNumbers.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\03-MinMaxSumAndAverageOfNNumbers\obj\Debug\03-MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+D:\SoftwareUniversityCourses\Homework\Loops\03-MinMaxSumAndAverageOfNNumbers\obj\Debug\03-MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftwareUniversityCourses\Homework\Loops\03-MinMaxSumAndAverageOfNNumbers\obj\Debug\03-MinMaxSumAndAverageOfNNumbers.pdb

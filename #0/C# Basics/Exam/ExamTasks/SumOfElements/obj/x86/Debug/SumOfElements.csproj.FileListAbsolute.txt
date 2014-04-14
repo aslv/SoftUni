@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\SumOfElements\bin\Debug\SumOfElements.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\SumOfElements\bin\Debug\SumOfElements.pdb
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\SumOfElements\obj\x86\Debug\SumOfElements.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\SumOfElements\obj\x86\Debug\SumOfElements.pdb

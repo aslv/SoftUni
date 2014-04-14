@@ -1,0 +1,6 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\bin\Debug\Problem_4.MultiplicationSign.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\bin\Debug\Problem_4.MultiplicationSign.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\bin\Debug\Problem_4.MultiplicationSign.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem 4. MultiplicationSign.csprojResolveAssemblyReference.cache
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem_4.MultiplicationSign.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem_4.MultiplicationSign.pdb

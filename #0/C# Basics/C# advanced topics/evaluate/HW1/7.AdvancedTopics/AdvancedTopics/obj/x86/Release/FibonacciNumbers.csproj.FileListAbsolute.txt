@@ -1,0 +1,5 @@
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\AdvancedTopics\bin\Release\AdvancedTopics.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\AdvancedTopics\bin\Release\AdvancedTopics.pdb
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\AdvancedTopics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\AdvancedTopics\obj\x86\Release\AdvancedTopics.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\AdvancedTopics\obj\x86\Release\AdvancedTopics.pdb

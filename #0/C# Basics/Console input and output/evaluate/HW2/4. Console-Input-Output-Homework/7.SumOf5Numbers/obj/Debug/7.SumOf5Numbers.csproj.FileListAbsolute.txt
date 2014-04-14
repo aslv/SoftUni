@@ -1,0 +1,9 @@
+C:\Users\musti\Desktop\domashni\Solution1\7.SumOf5Numbers\bin\Debug\7.SumOf5Numbers.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\7.SumOf5Numbers\bin\Debug\7.SumOf5Numbers.exe
+C:\Users\musti\Desktop\domashni\Solution1\7.SumOf5Numbers\bin\Debug\7.SumOf5Numbers.pdb
+C:\Users\musti\Desktop\domashni\Solution1\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\musti\Desktop\domashni\Solution1\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.exe
+C:\Users\musti\Desktop\domashni\Solution1\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\7.SumOf5Numbers\bin\Debug\7.SumOf5Numbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\7.SumOf5Numbers\obj\Debug\7.SumOf5Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\LongestWordInText\bin\Release\LongestWordInText.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\LongestWordInText\bin\Release\LongestWordInText.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\LongestWordInText\bin\Release\LongestWordInText.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\LongestWordInText\obj\Release\14.LongestWordInText.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\LongestWordInText\obj\Release\LongestWordInText.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\LongestWordInText\obj\Release\LongestWordInText.pdb

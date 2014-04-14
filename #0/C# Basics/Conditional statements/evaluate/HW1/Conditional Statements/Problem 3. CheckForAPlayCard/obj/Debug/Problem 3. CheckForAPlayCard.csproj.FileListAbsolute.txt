@@ -1,0 +1,6 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 3. CheckForAPlayCard\bin\Debug\Problem_3.CheckForAPlayCard.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 3. CheckForAPlayCard\bin\Debug\Problem_3.CheckForAPlayCard.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 3. CheckForAPlayCard\bin\Debug\Problem_3.CheckForAPlayCard.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 3. CheckForAPlayCard\obj\Debug\Problem 3. CheckForAPlayCard.csprojResolveAssemblyReference.cache
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 3. CheckForAPlayCard\obj\Debug\Problem_3.CheckForAPlayCard.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 3. CheckForAPlayCard\obj\Debug\Problem_3.CheckForAPlayCard.pdb

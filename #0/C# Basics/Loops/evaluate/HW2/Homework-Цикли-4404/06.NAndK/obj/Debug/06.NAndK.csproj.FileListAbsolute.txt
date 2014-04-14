@@ -1,0 +1,9 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\06.NAndK\bin\Debug\06.NAndK.exe.config
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\06.NAndK\bin\Debug\06.NAndK.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\06.NAndK\bin\Debug\06.NAndK.pdb
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\06.NAndK\obj\Debug\06.NAndK.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\06.NAndK\obj\Debug\06.NAndK.pdb
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\06.NAndK\obj\Debug\06.NAndK.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\06.NAndK\bin\Debug\06.NAndK.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\06.NAndK\obj\Debug\06.NAndK.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\06.NAndK\obj\Debug\06.NAndK.pdb

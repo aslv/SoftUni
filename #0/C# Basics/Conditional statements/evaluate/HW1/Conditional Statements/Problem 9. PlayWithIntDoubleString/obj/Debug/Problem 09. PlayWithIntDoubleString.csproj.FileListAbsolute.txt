@@ -1,0 +1,6 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 9. PlayWithIntDoubleString\bin\Debug\Problem_9.PlayWithIntDoubleString.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 9. PlayWithIntDoubleString\obj\Debug\Problem_9.PlayWithIntDoubleString.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 9. PlayWithIntDoubleString\obj\Debug\Problem_9.PlayWithIntDoubleString.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 9. PlayWithIntDoubleString\bin\Debug\Problem_9.PlayWithIntDoubleString.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 9. PlayWithIntDoubleString\obj\Debug\Problem_9.PlayWithIntDoubleString.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 9. PlayWithIntDoubleString\obj\Debug\Problem_9.PlayWithIntDoubleString.pdb

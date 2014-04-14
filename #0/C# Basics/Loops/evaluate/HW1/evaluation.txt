@@ -1,0 +1,24 @@
+Mark: ДДомашното е написано добре.
+Comments:
+Започвам задача по задача:
+
+= NumbersFrom1ToN --> да;
+= NumbersNotDivisibleBy3And7 --> добре, можеше просто да напишеш if ((i % 3) != 0 && (i % 7) != 0) без else ;
+= MinMaxSumAverageofNNumbers --> ОК;
+= PrintDeckOf52Cards --> да, извежда вярно, обаче помисли за по-прост начин за решаване (при мен извеждаше разни Щ-та на мястото на боите, когато махнах Console.OutputEncoding = Encoding.UTF8;, всичко си стана наред, не знам как е при теб);
+= Calculate --> добре;
+= CalculateNK --> да, но тук идеята беше да се сетиш, че n! / k! = (k+1) * (k+2) * ... * n ;) ;
+= Problem7Calculate --> може да се приложи същото, но иначе е коректно;
+= CatalanNumbers --> ОК;
+= MatrixOfNumbers --> добре;
+= OddEvenProduct --> да;
+= RandomNumberGivenRange --> забележи, че извежда numbers - 1 числа;
+= RandomizeNumbers1N --> харесва ми начина;
+= BinaryDecimalNumber --> да;
+= DecimalBinaryNumber --> добре;
+= HexadecimalDecimalNumber --> ОК;
+= DecimalHexadecimalNumber --> да.
+
+Като цяло домашното е добре направено. Бих обърнал внимание на начина, по който кръщаваш променливите. Правилно избираш имената да са смислени и описателни, старай се да са на английски. Обаче по-големият проблем е, че не преименуваш Program.cs - а това не е добре - винаги го прави! Останалото си е наред.
+
+Успех!

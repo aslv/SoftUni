@@ -1,0 +1,5 @@
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\DifferenceBetweenDates\bin\Release\DifferenceBetweenDates.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\DifferenceBetweenDates\bin\Release\DifferenceBetweenDates.pdb
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\DifferenceBetweenDates\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\DifferenceBetweenDates\obj\x86\Release\DifferenceBetweenDates.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\DifferenceBetweenDates\obj\x86\Release\DifferenceBetweenDates.pdb

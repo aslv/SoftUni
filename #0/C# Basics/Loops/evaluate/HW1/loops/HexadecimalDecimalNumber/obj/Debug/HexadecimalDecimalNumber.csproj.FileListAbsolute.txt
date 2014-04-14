@@ -1,0 +1,17 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\HexadecimalDecimalNumber\bin\Debug\HexadecimalDecimalNumber.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\HexadecimalDecimalNumber\bin\Debug\HexadecimalDecimalNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\HexadecimalDecimalNumber\bin\Debug\HexadecimalDecimalNumber.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\HexadecimalDecimalNumber\obj\Debug\HexadecimalDecimalNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\HexadecimalDecimalNumber\obj\Debug\HexadecimalDecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\HexadecimalDecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\obj\Debug\HexadecimalDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\obj\Debug\HexadecimalDecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\HexadecimalDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\HexadecimalDecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\HexadecimalDecimalNumber\obj\Debug\HexadecimalDecimalNumber.csprojResolveAssemblyReference.cache

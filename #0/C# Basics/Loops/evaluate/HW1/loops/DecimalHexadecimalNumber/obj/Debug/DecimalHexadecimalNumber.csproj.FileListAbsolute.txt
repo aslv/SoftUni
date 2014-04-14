@@ -1,0 +1,9 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalHexadecimalNumber\bin\Debug\DecimalHexadecimalNumber.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalHexadecimalNumber\bin\Debug\DecimalHexadecimalNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalHexadecimalNumber\bin\Debug\DecimalHexadecimalNumber.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalHexadecimalNumber\obj\Debug\DecimalHexadecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalHexadecimalNumber\obj\Debug\DecimalHexadecimalNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\DecimalHexadecimalNumber\obj\Debug\DecimalHexadecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalHexadecimalNumber\bin\Debug\DecimalHexadecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalHexadecimalNumber\obj\Debug\DecimalHexadecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\DecimalHexadecimalNumber\obj\Debug\DecimalHexadecimalNumber.pdb

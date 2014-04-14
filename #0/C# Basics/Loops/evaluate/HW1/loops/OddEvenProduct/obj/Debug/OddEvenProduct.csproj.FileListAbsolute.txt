@@ -1,0 +1,9 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\OddEvenProduct\bin\Debug\OddEvenProduct.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\OddEvenProduct\obj\Debug\OddEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\OddEvenProduct\obj\Debug\OddEvenProduct.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\OddEvenProduct\obj\Debug\OddEvenProduct.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\OddEvenProduct\obj\Debug\OddEvenProduct.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\OddEvenProduct\obj\Debug\OddEvenProduct.pdb

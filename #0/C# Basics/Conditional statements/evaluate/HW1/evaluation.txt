@@ -1,0 +1,21 @@
+Mark: Домашното е написано отлично
+Comments:
+Започвам задача по задача:
+
+= Problem 1. ExchangeIfGreater --> добре, можеш да изнесеш Console.WriteLine(firstNum + " " + secondNum); извън проверките;
+= Problem 2. BonusScore --> точно така;
+= Problem 3. CheckForAPlayCard --> да;
+= Problem 4. MultiplicationSign --> впечатлен съм :) ;
+= Problem 5. The BiggestOf3Numbers --> добре;
+= Problem 6. TheBiggestOfFiveNumbers --> да;
+= Problem 7. Sort3NumbersWithNestedIfs --> точно така;
+= Problem 8. DigitAsWord --> ОК;
+= Problem 9. PlayWithIntDoubleString --> да;
+= Problem 10. BeerTime --> добре;
+= Problem 11. NumberAsWords --> много добре (само две леки забележки: пише се "three" и "eighteen" и също така например 345 се пише three hundred and forty five, а неthree hundred forty five - но това няма абсолютно никакво значение на фона на представянето ти :) );
+= Problem 12. ZeroSubset --> на тази задача най-вероятно генерираш пермутация по i; както и да е, отлично свършена работа (пак бих добавил три неща, свързани с правописа: "binarySubsets", "resultOfDividing" или "resultOfDivision" и "reminder").
+
+По принцип пиша кратки рецензии за всяка задача, но е очевидно, че при теб няма нужда. Напълно отговорно казвам, че проверих отлично изпълнена домашна работа - и получаваш такава оценка съвсем заслужено! БРАВО!
+
+Продължавай все така!
+Успехи!

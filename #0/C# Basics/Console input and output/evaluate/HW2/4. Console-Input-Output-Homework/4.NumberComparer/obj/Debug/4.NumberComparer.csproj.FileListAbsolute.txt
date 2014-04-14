@@ -1,0 +1,9 @@
+C:\Users\musti\Desktop\domashni\Solution1\4.NumberComparer\bin\Debug\4.NumberComparer.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\4.NumberComparer\bin\Debug\4.NumberComparer.exe
+C:\Users\musti\Desktop\domashni\Solution1\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
+C:\Users\musti\Desktop\domashni\Solution1\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+C:\Users\musti\Desktop\domashni\Solution1\4.NumberComparer\obj\Debug\4.NumberComparer.pdb
+C:\Users\musti\Desktop\domashni\Solution1\4.NumberComparer\obj\Debug\4.NumberComparer.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\4.NumberComparer\bin\Debug\4.NumberComparer.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\4.NumberComparer\obj\Debug\4.NumberComparer.pdb

@@ -1,0 +1,13 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb

@@ -1,0 +1,9 @@
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\bin\Debug\Zad 3 - Cicle Perimeter and Area.exe.config
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\bin\Debug\Zad 3 - Cicle Perimeter and Area.exe
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\bin\Debug\Zad 3 - Cicle Perimeter and Area.pdb
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\obj\Debug\Zad 3 - Cicle Perimeter and Area.exe
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\obj\Debug\Zad 3 - Cicle Perimeter and Area.pdb
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\obj\Debug\Zad 3 - Cicle Perimeter and Area.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\bin\Debug\Zad 3 - Cicle Perimeter and Area.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\obj\Debug\Zad 3 - Cicle Perimeter and Area.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 3 - Cicle Perimeter and Area\obj\Debug\Zad 3 - Cicle Perimeter and Area.pdb

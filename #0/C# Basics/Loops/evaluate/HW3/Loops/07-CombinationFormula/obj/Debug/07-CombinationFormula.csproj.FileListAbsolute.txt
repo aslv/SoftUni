@@ -1,0 +1,8 @@
+D:\SoftwareUniversityCourses\Homework\Loops\07-CombinationFormula\bin\Debug\07-CombinationFormula.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\07-CombinationFormula\bin\Debug\07-CombinationFormula.exe
+D:\SoftwareUniversityCourses\Homework\Loops\07-CombinationFormula\bin\Debug\07-CombinationFormula.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\07-CombinationFormula\obj\Debug\07-CombinationFormula.exe
+D:\SoftwareUniversityCourses\Homework\Loops\07-CombinationFormula\obj\Debug\07-CombinationFormula.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\07-CombinationFormula\bin\Debug\07-CombinationFormula.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\07-CombinationFormula\obj\Debug\07-CombinationFormula.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\07-CombinationFormula\obj\Debug\07-CombinationFormula.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\PrimeChecker\bin\Debug\PrimeChecker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\PrimeChecker\bin\Debug\PrimeChecker.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\PrimeChecker\obj\x86\Debug\PrimeChecker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\PrimeChecker\obj\x86\Debug\PrimeChecker.pdb

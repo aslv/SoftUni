@@ -1,0 +1,6 @@
+D:\SoftwareUniversityCourses\Homework\Loops\02-NumbersNotDivisibleByThreeAndSeven\bin\Debug\02-NumbersNotDivisibleByThreeAndSeven.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\02-NumbersNotDivisibleByThreeAndSeven\bin\Debug\02-NumbersNotDivisibleByThreeAndSeven.exe
+D:\SoftwareUniversityCourses\Homework\Loops\02-NumbersNotDivisibleByThreeAndSeven\bin\Debug\02-NumbersNotDivisibleByThreeAndSeven.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\02-NumbersNotDivisibleByThreeAndSeven\obj\Debug\02-NumbersNotDivisibleByThreeAndSeven.csprojResolveAssemblyReference.cache
+D:\SoftwareUniversityCourses\Homework\Loops\02-NumbersNotDivisibleByThreeAndSeven\obj\Debug\02-NumbersNotDivisibleByThreeAndSeven.exe
+D:\SoftwareUniversityCourses\Homework\Loops\02-NumbersNotDivisibleByThreeAndSeven\obj\Debug\02-NumbersNotDivisibleByThreeAndSeven.pdb

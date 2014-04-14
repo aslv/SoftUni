@@ -1,0 +1,8 @@
+C:\Users\musti\Desktop\domashni\Solution1\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+C:\Users\musti\Desktop\domashni\Solution1\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+C:\Users\musti\Desktop\domashni\Solution1\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+C:\Users\musti\Desktop\domashni\Solution1\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

@@ -1,0 +1,18 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.csprojResolveAssemblyReference.cache

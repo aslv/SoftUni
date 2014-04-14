@@ -1,0 +1,8 @@
+C:\Users\musti\Desktop\domashni\Solution1\11.NumbersDividedByANumber\bin\Debug\11.NumbersDividedByANumber.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\11.NumbersDividedByANumber\bin\Debug\11.NumbersDividedByANumber.exe
+C:\Users\musti\Desktop\domashni\Solution1\11.NumbersDividedByANumber\bin\Debug\11.NumbersDividedByANumber.pdb
+C:\Users\musti\Desktop\domashni\Solution1\11.NumbersDividedByANumber\obj\Debug\11.NumbersDividedByANumber.exe
+C:\Users\musti\Desktop\domashni\Solution1\11.NumbersDividedByANumber\obj\Debug\11.NumbersDividedByANumber.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\11.NumbersDividedByANumber\bin\Debug\11.NumbersDividedByANumber.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\11.NumbersDividedByANumber\obj\Debug\11.NumbersDividedByANumber.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\11.NumbersDividedByANumber\obj\Debug\11.NumbersDividedByANumber.pdb

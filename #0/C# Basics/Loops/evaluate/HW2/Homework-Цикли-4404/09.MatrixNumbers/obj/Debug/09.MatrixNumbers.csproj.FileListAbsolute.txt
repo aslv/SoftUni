@@ -1,0 +1,13 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\09.MatrixNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\09.MatrixNumbers\obj\Debug\09.MatrixNumbers.pdb

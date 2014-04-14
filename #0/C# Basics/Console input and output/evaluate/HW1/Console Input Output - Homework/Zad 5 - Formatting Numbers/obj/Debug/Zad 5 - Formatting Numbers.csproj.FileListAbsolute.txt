@@ -1,0 +1,12 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 5 - Formatting Numbers\bin\Debug\Zad 5 - Formatting Numbers.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 5 - Formatting Numbers\bin\Debug\Zad 5 - Formatting Numbers.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 5 - Formatting Numbers\bin\Debug\Zad 5 - Formatting Numbers.pdb
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 5 - Formatting Numbers\obj\Debug\Zad 5 - Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 5 - Formatting Numbers\obj\Debug\Zad 5 - Formatting Numbers.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 5 - Formatting Numbers\obj\Debug\Zad 5 - Formatting Numbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 5 - Formatting Numbers\bin\Debug\Zad 5 - Formatting Numbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 5 - Formatting Numbers\obj\Debug\Zad 5 - Formatting Numbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 5 - Formatting Numbers\obj\Debug\Zad 5 - Formatting Numbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 5 - Formatting Numbers\bin\Debug\Zad 5 - Formatting Numbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 5 - Formatting Numbers\bin\Debug\Zad 5 - Formatting Numbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 5 - Formatting Numbers\obj\Debug\Zad 5 - Formatting Numbers.csprojResolveAssemblyReference.cache

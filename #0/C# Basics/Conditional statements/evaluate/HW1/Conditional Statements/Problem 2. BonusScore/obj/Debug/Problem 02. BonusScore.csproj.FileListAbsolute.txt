@@ -1,0 +1,3 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 2. BonusScore\obj\Debug\Problem_2.BonusScore.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 2. BonusScore\obj\Debug\Problem_2.BonusScore.pdb

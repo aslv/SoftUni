@@ -1,0 +1,8 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Calculate\bin\Debug\Calculate.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Calculate\bin\Debug\Calculate.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Calculate\obj\Debug\Calculate.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Calculate\obj\Debug\Calculate.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\Calculate\bin\Debug\Calculate.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\Calculate\obj\Debug\Calculate.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\Calculate\obj\Debug\Calculate.pdb

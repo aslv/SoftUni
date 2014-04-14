@@ -1,0 +1,8 @@
+D:\SoftwareUniversityCourses\Homework\Loops\10-CalculateGCD\bin\Debug\10-CalculateGCD.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\10-CalculateGCD\bin\Debug\10-CalculateGCD.exe
+D:\SoftwareUniversityCourses\Homework\Loops\10-CalculateGCD\bin\Debug\10-CalculateGCD.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\10-CalculateGCD\obj\Debug\10-CalculateGCD.exe
+D:\SoftwareUniversityCourses\Homework\Loops\10-CalculateGCD\obj\Debug\10-CalculateGCD.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\10-CalculateGCD\bin\Debug\10-CalculateGCD.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\10-CalculateGCD\obj\Debug\10-CalculateGCD.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\10-CalculateGCD\obj\Debug\10-CalculateGCD.pdb

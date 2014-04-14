@@ -1,0 +1,5 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 8. DigitAsWord\bin\Debug\Problem_8.DigitAsWord.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 8. DigitAsWord\bin\Debug\Problem_8.DigitAsWord.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 8. DigitAsWord\bin\Debug\Problem_8.DigitAsWord.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 8. DigitAsWord\obj\Debug\Problem_8.DigitAsWord.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 8. DigitAsWord\obj\Debug\Problem_8.DigitAsWord.pdb

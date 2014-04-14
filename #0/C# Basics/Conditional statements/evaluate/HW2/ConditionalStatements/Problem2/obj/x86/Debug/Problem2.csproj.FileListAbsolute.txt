@@ -1,0 +1,4 @@
+D:\Dragolova\CSharp\ConditionalStatements\Problem2\bin\Debug\Problem2.exe
+D:\Dragolova\CSharp\ConditionalStatements\Problem2\bin\Debug\Problem2.pdb
+D:\Dragolova\CSharp\ConditionalStatements\Problem2\obj\x86\Debug\Problem2.exe
+D:\Dragolova\CSharp\ConditionalStatements\Problem2\obj\x86\Debug\Problem2.pdb

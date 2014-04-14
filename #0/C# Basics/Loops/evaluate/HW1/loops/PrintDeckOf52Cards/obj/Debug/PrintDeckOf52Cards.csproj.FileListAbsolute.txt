@@ -1,0 +1,17 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.csprojResolveAssemblyReference.cache

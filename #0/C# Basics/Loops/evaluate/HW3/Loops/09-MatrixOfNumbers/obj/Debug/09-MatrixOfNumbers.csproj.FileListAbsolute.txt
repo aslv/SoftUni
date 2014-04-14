@@ -1,0 +1,8 @@
+D:\SoftwareUniversityCourses\Homework\Loops\09-MatrixOfNumbers\bin\Debug\09-MatrixOfNumbers.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\09-MatrixOfNumbers\bin\Debug\09-MatrixOfNumbers.exe
+D:\SoftwareUniversityCourses\Homework\Loops\09-MatrixOfNumbers\bin\Debug\09-MatrixOfNumbers.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\09-MatrixOfNumbers\obj\Debug\09-MatrixOfNumbers.exe
+D:\SoftwareUniversityCourses\Homework\Loops\09-MatrixOfNumbers\obj\Debug\09-MatrixOfNumbers.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\09-MatrixOfNumbers\bin\Debug\09-MatrixOfNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\09-MatrixOfNumbers\obj\Debug\09-MatrixOfNumbers.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\09-MatrixOfNumbers\obj\Debug\09-MatrixOfNumbers.pdb

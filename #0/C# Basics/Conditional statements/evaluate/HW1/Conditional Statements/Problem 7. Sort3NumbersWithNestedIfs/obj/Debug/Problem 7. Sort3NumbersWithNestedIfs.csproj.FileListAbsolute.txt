@@ -1,0 +1,6 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\bin\Debug\Problem_7.Sort3NumbersWithNestedIfs.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\bin\Debug\Problem_7.Sort3NumbersWithNestedIfs.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\bin\Debug\Problem_7.Sort3NumbersWithNestedIfs.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\obj\Debug\Problem 7. Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\obj\Debug\Problem_7.Sort3NumbersWithNestedIfs.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\obj\Debug\Problem_7.Sort3NumbersWithNestedIfs.pdb

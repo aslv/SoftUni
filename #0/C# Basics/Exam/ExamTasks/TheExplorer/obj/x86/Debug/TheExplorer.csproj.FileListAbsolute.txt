@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\TheExplorer\bin\Debug\TheExplorer.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\TheExplorer\bin\Debug\TheExplorer.pdb
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\TheExplorer\obj\x86\Debug\TheExplorer.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\TheExplorer\obj\x86\Debug\TheExplorer.pdb

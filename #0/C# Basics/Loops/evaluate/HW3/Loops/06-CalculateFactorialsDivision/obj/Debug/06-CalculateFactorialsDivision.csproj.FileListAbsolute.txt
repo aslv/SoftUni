@@ -1,0 +1,9 @@
+D:\SoftwareUniversityCourses\Homework\Loops\06-CalculateFactorialsDivision\bin\Debug\06-CalculateFactorialsDivision.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\06-CalculateFactorialsDivision\bin\Debug\06-CalculateFactorialsDivision.exe
+D:\SoftwareUniversityCourses\Homework\Loops\06-CalculateFactorialsDivision\bin\Debug\06-CalculateFactorialsDivision.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\06-CalculateFactorialsDivision\obj\Debug\06-CalculateFactorialsDivision.csprojResolveAssemblyReference.cache
+D:\SoftwareUniversityCourses\Homework\Loops\06-CalculateFactorialsDivision\obj\Debug\06-CalculateFactorialsDivision.exe
+D:\SoftwareUniversityCourses\Homework\Loops\06-CalculateFactorialsDivision\obj\Debug\06-CalculateFactorialsDivision.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\06-CalculateFactorialsDivision\bin\Debug\06-CalculateFactorialsDivision.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\06-CalculateFactorialsDivision\obj\Debug\06-CalculateFactorialsDivision.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\06-CalculateFactorialsDivision\obj\Debug\06-CalculateFactorialsDivision.pdb

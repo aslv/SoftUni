@@ -1,0 +1,13 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\PerimeterAndAreaOfPolygon\bin\Release\PerimeterAndAreaOfPolygon.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\PerimeterAndAreaOfPolygon\bin\Release\PerimeterAndAreaOfPolygon.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\PerimeterAndAreaOfPolygon\bin\Release\PerimeterAndAreaOfPolygon.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\PerimeterAndAreaOfPolygon\obj\Release\17.PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\PerimeterAndAreaOfPolygon\obj\Release\PerimeterAndAreaOfPolygon.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\PerimeterAndAreaOfPolygon\obj\Release\PerimeterAndAreaOfPolygon.pdb

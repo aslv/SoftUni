@@ -1,0 +1,5 @@
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe.config
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.pdb
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.exe
+c:\users\amilo\documents\visual studio 2013\Projects\loops\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.pdb

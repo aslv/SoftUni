@@ -1,0 +1,3 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 5. The BiggestOf3Numbers\bin\Debug\Problem_5.The_BiggestOf3Numbers.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 5. The BiggestOf3Numbers\obj\Debug\Problem_5.The_BiggestOf3Numbers.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 5. The BiggestOf3Numbers\obj\Debug\Problem_5.The_BiggestOf3Numbers.pdb

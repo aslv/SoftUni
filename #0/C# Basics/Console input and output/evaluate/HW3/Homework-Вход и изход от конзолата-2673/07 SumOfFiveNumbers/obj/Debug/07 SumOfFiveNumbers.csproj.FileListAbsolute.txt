@@ -1,0 +1,17 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07 SumOfFiveNumbers\bin\Debug\07 SumOfFiveNumbers.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07 SumOfFiveNumbers\bin\Debug\07 SumOfFiveNumbers.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07 SumOfFiveNumbers\bin\Debug\07 SumOfFiveNumbers.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07 SumOfFiveNumbers\obj\Debug\07 SumOfFiveNumbers.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\07 SumOfFiveNumbers\obj\Debug\07 SumOfFiveNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\07 SumOfFiveNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\obj\Debug\07 SumOfFiveNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\obj\Debug\07 SumOfFiveNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\07 SumOfFiveNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\07 SumOfFiveNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\07 SumOfFiveNumbers\obj\Debug\07 SumOfFiveNumbers.csprojResolveAssemblyReference.cache

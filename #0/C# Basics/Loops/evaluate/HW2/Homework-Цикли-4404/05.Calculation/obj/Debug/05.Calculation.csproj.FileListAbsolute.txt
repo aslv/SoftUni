@@ -1,0 +1,17 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\05.Calculation\bin\Debug\05.Calculation.exe.config
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\05.Calculation\bin\Debug\05.Calculation.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\05.Calculation\bin\Debug\05.Calculation.pdb
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\05.Calculation\obj\Debug\05.Calculation.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\05.Calculation\obj\Debug\05.Calculation.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\05.Calculation.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\obj\Debug\05.Calculation.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\obj\Debug\05.Calculation.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\05.Calculation.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\05.Calculation.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\05.Calculation\obj\Debug\05.Calculation.csprojResolveAssemblyReference.cache

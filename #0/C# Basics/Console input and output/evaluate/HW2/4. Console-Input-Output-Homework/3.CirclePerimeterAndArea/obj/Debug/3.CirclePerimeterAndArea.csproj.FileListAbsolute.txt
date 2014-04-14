@@ -1,0 +1,8 @@
+C:\Users\musti\Desktop\domashni\Solution1\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe
+C:\Users\musti\Desktop\domashni\Solution1\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.pdb
+C:\Users\musti\Desktop\domashni\Solution1\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.exe
+C:\Users\musti\Desktop\domashni\Solution1\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.pdb

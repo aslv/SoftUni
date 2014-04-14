@@ -1,0 +1,8 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\08 NumbersFromOneToN\bin\Debug\08 NumbersFromOneToN.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\08 NumbersFromOneToN\bin\Debug\08 NumbersFromOneToN.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\08 NumbersFromOneToN\bin\Debug\08 NumbersFromOneToN.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\08 NumbersFromOneToN\obj\Debug\08 NumbersFromOneToN.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\08 NumbersFromOneToN\obj\Debug\08 NumbersFromOneToN.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\08 NumbersFromOneToN\bin\Debug\08 NumbersFromOneToN.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\08 NumbersFromOneToN\obj\Debug\08 NumbersFromOneToN.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\08 NumbersFromOneToN\obj\Debug\08 NumbersFromOneToN.pdb

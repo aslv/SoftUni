@@ -1,0 +1,6 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe.config
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.pdb
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb

@@ -1,0 +1,9 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\04 NumberComparer\bin\Debug\04 NumberComparer.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\04 NumberComparer\bin\Debug\04 NumberComparer.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\04 NumberComparer\bin\Debug\04 NumberComparer.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\04 NumberComparer\obj\Debug\04 NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\04 NumberComparer\obj\Debug\04 NumberComparer.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\04 NumberComparer\obj\Debug\04 NumberComparer.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\04 NumberComparer\bin\Debug\04 NumberComparer.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\04 NumberComparer\obj\Debug\04 NumberComparer.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\04 NumberComparer\obj\Debug\04 NumberComparer.pdb

@@ -1,0 +1,13 @@
+G:\Dropbox\SoftUni\Homework\6.LoopsHomework\06.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW2\Homework-Цикли-4404\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb

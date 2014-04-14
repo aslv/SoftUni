@@ -1,0 +1,10 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 6 - Quadratic Equations\bin\Debug\Zad 6 - Quadratic Equations.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 6 - Quadratic Equations\bin\Debug\Zad 6 - Quadratic Equations.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 6 - Quadratic Equations\bin\Debug\Zad 6 - Quadratic Equations.pdb
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 6 - Quadratic Equations\obj\Debug\Zad 6 - Quadratic Equations.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 6 - Quadratic Equations\obj\Debug\Zad 6 - Quadratic Equations.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 6 - Quadratic Equations\bin\Debug\Zad 6 - Quadratic Equations.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 6 - Quadratic Equations\obj\Debug\Zad 6 - Quadratic Equations.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 6 - Quadratic Equations\obj\Debug\Zad 6 - Quadratic Equations.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 6 - Quadratic Equations\bin\Debug\Zad 6 - Quadratic Equations.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 6 - Quadratic Equations\bin\Debug\Zad 6 - Quadratic Equations.pdb

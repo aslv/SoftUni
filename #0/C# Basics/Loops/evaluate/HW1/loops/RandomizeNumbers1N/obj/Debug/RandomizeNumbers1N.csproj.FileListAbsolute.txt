@@ -1,0 +1,9 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomizeNumbers1N\bin\Debug\RandomizeNumbers1N.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomizeNumbers1N\bin\Debug\RandomizeNumbers1N.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomizeNumbers1N\bin\Debug\RandomizeNumbers1N.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomizeNumbers1N\obj\Debug\RandomizeNumbers1N.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomizeNumbers1N\obj\Debug\RandomizeNumbers1N.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomizeNumbers1N\obj\Debug\RandomizeNumbers1N.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\RandomizeNumbers1N\bin\Debug\RandomizeNumbers1N.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\RandomizeNumbers1N\obj\Debug\RandomizeNumbers1N.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\RandomizeNumbers1N\obj\Debug\RandomizeNumbers1N.pdb

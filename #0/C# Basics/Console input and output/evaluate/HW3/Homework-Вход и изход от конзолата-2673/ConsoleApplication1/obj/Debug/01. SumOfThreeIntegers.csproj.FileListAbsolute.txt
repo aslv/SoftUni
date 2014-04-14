@@ -1,0 +1,9 @@
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\ConsoleApplication1\obj\Debug\01. SumOfThreeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ZG\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW3\Homework-Вход и изход от конзолата-2673\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

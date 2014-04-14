@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\MagicStrings\bin\Debug\MagicStrings.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\MagicStrings\bin\Debug\MagicStrings.pdb
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\MagicStrings\obj\x86\Debug\MagicStrings.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\MagicStrings\obj\x86\Debug\MagicStrings.pdb

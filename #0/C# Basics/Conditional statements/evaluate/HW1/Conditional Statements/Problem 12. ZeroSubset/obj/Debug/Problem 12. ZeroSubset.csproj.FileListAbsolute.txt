@@ -1,0 +1,18 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\Problem_12.ZeroSubset.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\Problem_12.ZeroSubset.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\Problem_12.ZeroSubset.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 12. ZeroSubset\obj\Debug\Problem_12.ZeroSubset.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 12. ZeroSubset\obj\Debug\Problem_12.ZeroSubset.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 12. ZeroSubset\obj\Debug\Problem 12. ZeroSubset.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\Problem_12.ZeroSubset.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\obj\Debug\Problem_12.ZeroSubset.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\obj\Debug\Problem_12.ZeroSubset.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\Problem_12.ZeroSubset.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\Problem_12.ZeroSubset.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 12. ZeroSubset\obj\Debug\Problem 12. ZeroSubset.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\WorkHours\bin\Debug\WorkHours.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\WorkHours\bin\Debug\WorkHours.pdb
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\WorkHours\obj\x86\Debug\WorkHours.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\WorkHours\obj\x86\Debug\WorkHours.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\DifferenceBetweenDates\obj\x86\Debug\DifferenceBetweenDates.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\DifferenceBetweenDates\obj\x86\Debug\DifferenceBetweenDates.pdb

@@ -1,0 +1,8 @@
+C:\Users\musti\Desktop\domashni\Solution1\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe
+C:\Users\musti\Desktop\domashni\Solution1\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.pdb
+C:\Users\musti\Desktop\domashni\Solution1\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.exe
+C:\Users\musti\Desktop\domashni\Solution1\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.pdb

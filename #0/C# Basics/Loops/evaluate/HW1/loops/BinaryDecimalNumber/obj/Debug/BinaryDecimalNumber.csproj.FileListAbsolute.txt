@@ -1,0 +1,8 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\BinaryDecimalNumber\bin\Debug\BinaryDecimalNumber.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\BinaryDecimalNumber\bin\Debug\BinaryDecimalNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\BinaryDecimalNumber\bin\Debug\BinaryDecimalNumber.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\BinaryDecimalNumber\obj\Debug\BinaryDecimalNumber.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\BinaryDecimalNumber\obj\Debug\BinaryDecimalNumber.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\BinaryDecimalNumber\bin\Debug\BinaryDecimalNumber.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\BinaryDecimalNumber\obj\Debug\BinaryDecimalNumber.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\BinaryDecimalNumber\obj\Debug\BinaryDecimalNumber.pdb

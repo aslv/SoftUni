@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\BitShifting\bin\Debug\BitShifting.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\BitShifting\bin\Debug\BitShifting.pdb
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\BitShifting\obj\x86\Debug\BitShifting.exe
+D:\SoftUni\#0\C# Basics\Exam\ExamTasks\BitShifting\obj\x86\Debug\BitShifting.pdb

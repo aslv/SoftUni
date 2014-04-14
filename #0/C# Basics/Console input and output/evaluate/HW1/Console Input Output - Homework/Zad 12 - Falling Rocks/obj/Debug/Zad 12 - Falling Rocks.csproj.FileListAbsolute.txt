@@ -1,0 +1,12 @@
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 12 - Falling Rocks\bin\Debug\Zad 12 - Falling Rocks.exe.config
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 12 - Falling Rocks\bin\Debug\Zad 12 - Falling Rocks.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 12 - Falling Rocks\bin\Debug\Zad 12 - Falling Rocks.pdb
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 12 - Falling Rocks\obj\Debug\Zad 12 - Falling Rocks.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 12 - Falling Rocks\obj\Debug\Zad 12 - Falling Rocks.exe
+C:\Users\Mitko\Documents\Visual Studio 2012\Projects\Console Input Output - Homework\Zad 12 - Falling Rocks\obj\Debug\Zad 12 - Falling Rocks.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 12 - Falling Rocks\bin\Debug\Zad 12 - Falling Rocks.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 12 - Falling Rocks\obj\Debug\Zad 12 - Falling Rocks.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 12 - Falling Rocks\obj\Debug\Zad 12 - Falling Rocks.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 12 - Falling Rocks\bin\Debug\Zad 12 - Falling Rocks.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 12 - Falling Rocks\bin\Debug\Zad 12 - Falling Rocks.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 12 - Falling Rocks\obj\Debug\Zad 12 - Falling Rocks.csprojResolveAssemblyReference.cache

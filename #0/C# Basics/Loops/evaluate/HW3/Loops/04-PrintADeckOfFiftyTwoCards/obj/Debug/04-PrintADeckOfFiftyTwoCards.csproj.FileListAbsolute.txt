@@ -1,0 +1,8 @@
+D:\SoftwareUniversityCourses\Homework\Loops\04-PrintADeckOfFiftyTwoCards\bin\Debug\04-PrintADeckOfFiftyTwoCards.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\04-PrintADeckOfFiftyTwoCards\bin\Debug\04-PrintADeckOfFiftyTwoCards.exe
+D:\SoftwareUniversityCourses\Homework\Loops\04-PrintADeckOfFiftyTwoCards\bin\Debug\04-PrintADeckOfFiftyTwoCards.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\04-PrintADeckOfFiftyTwoCards\obj\Debug\04-PrintADeckOfFiftyTwoCards.exe
+D:\SoftwareUniversityCourses\Homework\Loops\04-PrintADeckOfFiftyTwoCards\obj\Debug\04-PrintADeckOfFiftyTwoCards.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\04-PrintADeckOfFiftyTwoCards\bin\Debug\04-PrintADeckOfFiftyTwoCards.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\04-PrintADeckOfFiftyTwoCards\obj\Debug\04-PrintADeckOfFiftyTwoCards.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\04-PrintADeckOfFiftyTwoCards\obj\Debug\04-PrintADeckOfFiftyTwoCards.pdb

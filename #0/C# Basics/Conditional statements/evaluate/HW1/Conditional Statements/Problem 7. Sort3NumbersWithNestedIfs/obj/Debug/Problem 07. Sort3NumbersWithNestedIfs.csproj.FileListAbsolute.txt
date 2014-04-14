@@ -1,0 +1,3 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\bin\Debug\Problem_7.Sort3NumbersWithNestedIfs.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\obj\Debug\Problem_7.Sort3NumbersWithNestedIfs.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 7. Sort3NumbersWithNestedIfs\obj\Debug\Problem_7.Sort3NumbersWithNestedIfs.pdb

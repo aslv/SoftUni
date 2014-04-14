@@ -1,0 +1,8 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomNumberGivenRange\bin\Debug\RandomNumberGivenRange.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomNumberGivenRange\bin\Debug\RandomNumberGivenRange.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomNumberGivenRange\bin\Debug\RandomNumberGivenRange.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomNumberGivenRange\obj\Debug\RandomNumberGivenRange.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\RandomNumberGivenRange\obj\Debug\RandomNumberGivenRange.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\RandomNumberGivenRange\bin\Debug\RandomNumberGivenRange.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\RandomNumberGivenRange\obj\Debug\RandomNumberGivenRange.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW1\loops\RandomNumberGivenRange\obj\Debug\RandomNumberGivenRange.pdb

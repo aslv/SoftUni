@@ -1,0 +1,17 @@
+D:\SoftwareUniversityCourses\Homework\Loops\11-TrailingZeroesInN\bin\Debug\11-TrailingZeroesInN.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\11-TrailingZeroesInN\bin\Debug\11-TrailingZeroesInN.exe
+D:\SoftwareUniversityCourses\Homework\Loops\11-TrailingZeroesInN\bin\Debug\11-TrailingZeroesInN.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\11-TrailingZeroesInN\obj\Debug\11-TrailingZeroesInN.exe
+D:\SoftwareUniversityCourses\Homework\Loops\11-TrailingZeroesInN\obj\Debug\11-TrailingZeroesInN.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\11-TrailingZeroesInN.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\obj\Debug\11-TrailingZeroesInN.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\obj\Debug\11-TrailingZeroesInN.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\11-TrailingZeroesInN.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\11-TrailingZeroesInN.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\mscorlib.dll
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\normidna.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\normnfc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\normnfd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\normnfkc.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\bin\Debug\normnfkd.nlp
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\11-TrailingZeroesInN\obj\Debug\11-TrailingZeroesInN.csprojResolveAssemblyReference.cache

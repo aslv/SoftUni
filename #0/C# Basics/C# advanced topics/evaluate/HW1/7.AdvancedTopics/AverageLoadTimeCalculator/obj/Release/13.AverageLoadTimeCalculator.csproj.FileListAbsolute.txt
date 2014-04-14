@@ -1,0 +1,6 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\AverageLoadTimeCalculator\bin\Release\AverageLoadTimeCalculator.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\AverageLoadTimeCalculator\bin\Release\AverageLoadTimeCalculator.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\AverageLoadTimeCalculator\bin\Release\AverageLoadTimeCalculator.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\AverageLoadTimeCalculator\obj\Release\13.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\AverageLoadTimeCalculator\obj\Release\AverageLoadTimeCalculator.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\AverageLoadTimeCalculator\obj\Release\AverageLoadTimeCalculator.pdb

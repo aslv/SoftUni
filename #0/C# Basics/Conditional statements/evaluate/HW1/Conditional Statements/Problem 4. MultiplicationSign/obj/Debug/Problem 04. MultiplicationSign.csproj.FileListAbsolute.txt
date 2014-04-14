@@ -1,0 +1,6 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\bin\Debug\Problem_4.MultiplicationSign.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem_4.MultiplicationSign.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem_4.MultiplicationSign.pdb
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 4. MultiplicationSign\bin\Debug\Problem_4.MultiplicationSign.exe.config
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem_4.MultiplicationSign.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW1\Conditional Statements\Problem 4. MultiplicationSign\obj\Debug\Problem_4.MultiplicationSign.pdb

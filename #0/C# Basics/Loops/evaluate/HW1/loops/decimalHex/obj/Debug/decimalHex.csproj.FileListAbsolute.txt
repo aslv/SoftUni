@@ -1,0 +1,5 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\decimalHex\bin\Debug\decimalHex.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\decimalHex\bin\Debug\decimalHex.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\decimalHex\bin\Debug\decimalHex.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\decimalHex\obj\Debug\decimalHex.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\decimalHex\obj\Debug\decimalHex.pdb

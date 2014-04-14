@@ -1,0 +1,2 @@
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW2\ConditionalStatements\Problem7\obj\x86\Debug\Problem7.exe
+D:\SoftUni\#0\C# Basics\Conditional statements\evaluate\HW2\ConditionalStatements\Problem7\obj\x86\Debug\Problem7.pdb

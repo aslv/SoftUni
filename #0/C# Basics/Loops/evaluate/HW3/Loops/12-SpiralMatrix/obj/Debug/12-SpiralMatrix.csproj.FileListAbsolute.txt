@@ -1,0 +1,9 @@
+D:\SoftwareUniversityCourses\Homework\Loops\12-SpiralMatrix\bin\Debug\12-SpiralMatrix.exe.config
+D:\SoftwareUniversityCourses\Homework\Loops\12-SpiralMatrix\bin\Debug\12-SpiralMatrix.exe
+D:\SoftwareUniversityCourses\Homework\Loops\12-SpiralMatrix\bin\Debug\12-SpiralMatrix.pdb
+D:\SoftwareUniversityCourses\Homework\Loops\12-SpiralMatrix\obj\Debug\12-SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\SoftwareUniversityCourses\Homework\Loops\12-SpiralMatrix\obj\Debug\12-SpiralMatrix.exe
+D:\SoftwareUniversityCourses\Homework\Loops\12-SpiralMatrix\obj\Debug\12-SpiralMatrix.pdb
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\12-SpiralMatrix\bin\Debug\12-SpiralMatrix.exe.config
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\12-SpiralMatrix\obj\Debug\12-SpiralMatrix.exe
+D:\SoftUni\#0\C# Basics\Loops\evaluate\HW3\Loops\12-SpiralMatrix\obj\Debug\12-SpiralMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimeChecker\bin\Release\PrimeChecker.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimeChecker\bin\Release\PrimeChecker.pdb
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimeChecker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimeChecker\obj\x86\Release\PrimeChecker.exe
+C:\Documents and Settings\stena\my documents\visual studio 2010\Projects\AdvancedTopics\PrimeChecker\obj\x86\Release\PrimeChecker.pdb

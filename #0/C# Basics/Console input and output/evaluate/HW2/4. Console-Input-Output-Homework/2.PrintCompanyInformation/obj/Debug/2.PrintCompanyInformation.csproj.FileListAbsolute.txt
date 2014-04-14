@@ -1,0 +1,9 @@
+C:\Users\musti\Desktop\domashni\Solution1\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe
+C:\Users\musti\Desktop\domashni\Solution1\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.pdb
+C:\Users\musti\Desktop\domashni\Solution1\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+C:\Users\musti\Desktop\domashni\Solution1\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb
+C:\Users\musti\Desktop\domashni\Solution1\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb

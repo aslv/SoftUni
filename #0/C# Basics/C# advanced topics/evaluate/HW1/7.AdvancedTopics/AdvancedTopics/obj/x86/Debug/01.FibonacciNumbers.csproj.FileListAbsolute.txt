@@ -1,0 +1,4 @@
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\AdvancedTopics\bin\Debug\AdvancedTopics.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\AdvancedTopics\bin\Debug\AdvancedTopics.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\AdvancedTopics\obj\x86\Debug\AdvancedTopics.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW1\7.AdvancedTopics\AdvancedTopics\obj\x86\Debug\AdvancedTopics.pdb

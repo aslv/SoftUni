@@ -1,0 +1,6 @@
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Problem7Calculate\bin\Debug\Problem7Calculate.exe.config
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Problem7Calculate\bin\Debug\Problem7Calculate.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Problem7Calculate\bin\Debug\Problem7Calculate.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Problem7Calculate\obj\Debug\Problem7Calculate.exe
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Problem7Calculate\obj\Debug\Problem7Calculate.pdb
+C:\Users\AMILO\Documents\Visual Studio 2013\Projects\loops\Problem7Calculate\obj\Debug\Problem7Calculate.csprojResolveAssemblyReference.cache

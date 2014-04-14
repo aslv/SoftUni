@@ -1,0 +1,5 @@
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\ExtractURLsFromText\bin\Release\ExtractURLsFromText.exe.config
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\ExtractURLsFromText\bin\Release\ExtractURLsFromText.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\ExtractURLsFromText\bin\Release\ExtractURLsFromText.pdb
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\ExtractURLsFromText\obj\Release\ExtractURLsFromText.exe
+C:\Users\Elia\Documents\Visual Studio 2013\Projects\7.AdvancedTopics\ExtractURLsFromText\obj\Release\ExtractURLsFromText.pdb

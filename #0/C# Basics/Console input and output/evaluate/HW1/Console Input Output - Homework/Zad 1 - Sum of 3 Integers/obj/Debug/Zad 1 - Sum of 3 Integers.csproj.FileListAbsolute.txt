@@ -1,0 +1,9 @@
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\bin\Debug\Zad 1 - Sum of 3 Integers.exe.config
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\bin\Debug\Zad 1 - Sum of 3 Integers.exe
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\bin\Debug\Zad 1 - Sum of 3 Integers.pdb
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\obj\Debug\Zad 1 - Sum of 3 Integers.csprojResolveAssemblyReference.cache
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\obj\Debug\Zad 1 - Sum of 3 Integers.exe
+c:\users\mitko\documents\visual studio 2012\Projects\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\obj\Debug\Zad 1 - Sum of 3 Integers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\bin\Debug\Zad 1 - Sum of 3 Integers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\obj\Debug\Zad 1 - Sum of 3 Integers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW1\Console Input Output - Homework\Zad 1 - Sum of 3 Integers\obj\Debug\Zad 1 - Sum of 3 Integers.pdb

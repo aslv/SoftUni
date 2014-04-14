@@ -1,0 +1,9 @@
+C:\Users\musti\Desktop\domashni\Solution1\1.SumOf3Integers\bin\Debug\1.SumOf3Integers.exe.config
+C:\Users\musti\Desktop\domashni\Solution1\1.SumOf3Integers\bin\Debug\1.SumOf3Integers.exe
+C:\Users\musti\Desktop\domashni\Solution1\1.SumOf3Integers\bin\Debug\1.SumOf3Integers.pdb
+C:\Users\musti\Desktop\domashni\Solution1\1.SumOf3Integers\obj\Debug\1.SumOf3Integers.csprojResolveAssemblyReference.cache
+C:\Users\musti\Desktop\domashni\Solution1\1.SumOf3Integers\obj\Debug\1.SumOf3Integers.exe
+C:\Users\musti\Desktop\domashni\Solution1\1.SumOf3Integers\obj\Debug\1.SumOf3Integers.pdb
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\1.SumOf3Integers\bin\Debug\1.SumOf3Integers.exe.config
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\1.SumOf3Integers\obj\Debug\1.SumOf3Integers.exe
+D:\SoftUni\#0\C# Basics\Console input and output\evaluate\HW2\4. Console-Input-Output-Homework\1.SumOf3Integers\obj\Debug\1.SumOf3Integers.pdb

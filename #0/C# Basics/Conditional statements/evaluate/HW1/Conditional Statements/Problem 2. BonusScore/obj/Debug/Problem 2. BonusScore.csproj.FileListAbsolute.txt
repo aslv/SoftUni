@@ -1,0 +1,5 @@
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.exe.config
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. BonusScore\bin\Debug\Problem_2.BonusScore.pdb
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. BonusScore\obj\Debug\Problem_2.BonusScore.exe
+c:\users\breeze\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. BonusScore\obj\Debug\Problem_2.BonusScore.pdb
