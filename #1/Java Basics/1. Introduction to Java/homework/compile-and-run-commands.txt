@@ -1,0 +1,4 @@
+cd <path> REM where <path> is the path to .java files, usually in 'src' directory of the project
+javac <filename>.java REM where <filename> is the name of the file to be compiled
+REM we compile so far, now we execute
+java <filename> REM it is important to type <filename> without '.class' extention

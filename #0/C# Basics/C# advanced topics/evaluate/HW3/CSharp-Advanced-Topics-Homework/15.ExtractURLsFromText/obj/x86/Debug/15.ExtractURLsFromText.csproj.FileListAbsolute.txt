@@ -1,0 +1,7 @@
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\15.ExtractURLsFromText.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\15.ExtractURLsFromText.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\15.ExtractURLsFromText.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\15.ExtractURLsFromText\obj\x86\Debug\15.ExtractURLsFromText.pdb

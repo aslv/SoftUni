@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\bin\Debug\11.Count-Of-Letters.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\bin\Debug\11.Count-Of-Letters.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\bin\Debug\11.Count-Of-Letters.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\obj\Debug\11.Count-Of-Letters.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\obj\Debug\11.Count-Of-Letters.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\bin\Debug\11.Count-Of-Letters.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\obj\Debug\11.Count-Of-Letters.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\obj\Debug\11.Count-Of-Letters.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\bin\Debug\11.Count-Of-Letters.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\11.Count-Of-Letters\bin\Debug\11.Count-Of-Letters.pdb

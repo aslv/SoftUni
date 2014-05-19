@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\bin\Debug\16.Counting-Word-In-Text.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\bin\Debug\16.Counting-Word-In-Text.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\bin\Debug\16.Counting-Word-In-Text.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\obj\Debug\16.Counting-Word-In-Text.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\obj\Debug\16.Counting-Word-In-Text.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\bin\Debug\16.Counting-Word-In-Text.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\obj\Debug\16.Counting-Word-In-Text.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\obj\Debug\16.Counting-Word-In-Text.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\bin\Debug\16.Counting-Word-In-Text.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\16.Counting-Word-In-Text\bin\Debug\16.Counting-Word-In-Text.pdb

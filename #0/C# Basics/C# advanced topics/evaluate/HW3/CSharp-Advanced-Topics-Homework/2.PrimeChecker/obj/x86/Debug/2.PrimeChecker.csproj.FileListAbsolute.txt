@@ -1,0 +1,7 @@
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\2.PrimeChecker\bin\Debug\2.PrimeChecker.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\2.PrimeChecker\bin\Debug\2.PrimeChecker.pdb
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\x86\Debug\2.PrimeChecker.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\x86\Debug\2.PrimeChecker.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\x86\Debug\2.PrimeChecker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\2.PrimeChecker\obj\x86\Debug\2.PrimeChecker.pdb

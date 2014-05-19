@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\bin\Debug\07.Matrix-Of-Palindromes.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\bin\Debug\07.Matrix-Of-Palindromes.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\bin\Debug\07.Matrix-Of-Palindromes.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\obj\Debug\07.Matrix-Of-Palindromes.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\obj\Debug\07.Matrix-Of-Palindromes.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\bin\Debug\07.Matrix-Of-Palindromes.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\obj\Debug\07.Matrix-Of-Palindromes.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\obj\Debug\07.Matrix-Of-Palindromes.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\bin\Debug\07.Matrix-Of-Palindromes.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\07.Matrix-Of-Palindromes\bin\Debug\07.Matrix-Of-Palindromes.pdb

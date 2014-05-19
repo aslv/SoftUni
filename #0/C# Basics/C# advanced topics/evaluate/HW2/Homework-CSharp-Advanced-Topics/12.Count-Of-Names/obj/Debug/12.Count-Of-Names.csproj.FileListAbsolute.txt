@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\bin\Debug\12.Count-Of-Names.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\bin\Debug\12.Count-Of-Names.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\bin\Debug\12.Count-Of-Names.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\obj\Debug\12.Count-Of-Names.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\obj\Debug\12.Count-Of-Names.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\bin\Debug\12.Count-Of-Names.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\obj\Debug\12.Count-Of-Names.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\obj\Debug\12.Count-Of-Names.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\bin\Debug\12.Count-Of-Names.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\12.Count-Of-Names\bin\Debug\12.Count-Of-Names.pdb

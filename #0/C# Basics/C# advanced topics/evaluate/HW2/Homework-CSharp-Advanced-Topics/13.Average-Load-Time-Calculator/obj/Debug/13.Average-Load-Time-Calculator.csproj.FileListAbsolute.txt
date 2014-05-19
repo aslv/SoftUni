@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\bin\Debug\13.Average-Load-Time-Calculator.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\bin\Debug\13.Average-Load-Time-Calculator.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\bin\Debug\13.Average-Load-Time-Calculator.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\obj\Debug\13.Average-Load-Time-Calculator.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\obj\Debug\13.Average-Load-Time-Calculator.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\bin\Debug\13.Average-Load-Time-Calculator.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\obj\Debug\13.Average-Load-Time-Calculator.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\obj\Debug\13.Average-Load-Time-Calculator.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\bin\Debug\13.Average-Load-Time-Calculator.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\13.Average-Load-Time-Calculator\bin\Debug\13.Average-Load-Time-Calculator.pdb

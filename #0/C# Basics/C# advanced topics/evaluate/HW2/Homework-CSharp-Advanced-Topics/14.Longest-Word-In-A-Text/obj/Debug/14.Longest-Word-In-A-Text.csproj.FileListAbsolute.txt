@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\bin\Debug\14.Longest-Word-In-A-Text.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\bin\Debug\14.Longest-Word-In-A-Text.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\bin\Debug\14.Longest-Word-In-A-Text.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\obj\Debug\14.Longest-Word-In-A-Text.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\obj\Debug\14.Longest-Word-In-A-Text.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\bin\Debug\14.Longest-Word-In-A-Text.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\obj\Debug\14.Longest-Word-In-A-Text.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\obj\Debug\14.Longest-Word-In-A-Text.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\bin\Debug\14.Longest-Word-In-A-Text.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\14.Longest-Word-In-A-Text\bin\Debug\14.Longest-Word-In-A-Text.pdb

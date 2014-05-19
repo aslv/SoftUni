@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\bin\Debug\06.Longest-Area-In-Array.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\bin\Debug\06.Longest-Area-In-Array.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\bin\Debug\06.Longest-Area-In-Array.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\obj\Debug\06.Longest-Area-In-Array.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\obj\Debug\06.Longest-Area-In-Array.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\bin\Debug\06.Longest-Area-In-Array.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\obj\Debug\06.Longest-Area-In-Array.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\obj\Debug\06.Longest-Area-In-Array.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\bin\Debug\06.Longest-Area-In-Array.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\06.Longest-Area-In-Array\bin\Debug\06.Longest-Area-In-Array.pdb

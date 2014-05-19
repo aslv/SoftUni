@@ -1,0 +1,4 @@
+REM here is a dublicate of ..\compile-and-run-commands.txt, but now are shown the exact commands without explanation
+cd src
+javac SumTwoNumbers.java
+java SumTwoNumbers

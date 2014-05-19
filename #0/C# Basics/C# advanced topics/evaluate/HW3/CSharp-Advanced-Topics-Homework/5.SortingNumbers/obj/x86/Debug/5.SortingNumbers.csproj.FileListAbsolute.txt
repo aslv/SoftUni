@@ -1,0 +1,7 @@
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\5.SortingNumbers\bin\Debug\5.SortingNumbers.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\5.SortingNumbers\bin\Debug\5.SortingNumbers.pdb
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\x86\Debug\5.SortingNumbers.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\x86\Debug\5.SortingNumbers.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\x86\Debug\5.SortingNumbers.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\5.SortingNumbers\obj\x86\Debug\5.SortingNumbers.pdb

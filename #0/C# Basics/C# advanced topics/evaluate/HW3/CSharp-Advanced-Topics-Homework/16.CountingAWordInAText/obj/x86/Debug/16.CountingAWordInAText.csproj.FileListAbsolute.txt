@@ -1,0 +1,7 @@
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\bin\Debug\16.CountingAWordInAText.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\bin\Debug\16.CountingAWordInAText.pdb
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\obj\x86\Debug\16.CountingAWordInAText.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\obj\x86\Debug\16.CountingAWordInAText.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\obj\x86\Debug\16.CountingAWordInAText.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\16.CountingAWordInAText\obj\x86\Debug\16.CountingAWordInAText.pdb

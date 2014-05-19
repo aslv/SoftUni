@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\bin\Debug\03.Primes-In-Given-Range.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\bin\Debug\03.Primes-In-Given-Range.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\bin\Debug\03.Primes-In-Given-Range.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\obj\Debug\03.Primes-In-Given-Range.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\obj\Debug\03.Primes-In-Given-Range.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\bin\Debug\03.Primes-In-Given-Range.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\obj\Debug\03.Primes-In-Given-Range.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\obj\Debug\03.Primes-In-Given-Range.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\bin\Debug\03.Primes-In-Given-Range.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\03.Primes-In-Given-Range\bin\Debug\03.Primes-In-Given-Range.pdb

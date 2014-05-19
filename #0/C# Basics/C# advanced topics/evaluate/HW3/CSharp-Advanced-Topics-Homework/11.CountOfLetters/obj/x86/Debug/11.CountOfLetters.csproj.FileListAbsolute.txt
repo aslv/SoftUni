@@ -1,0 +1,7 @@
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\11.CountOfLetters.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\11.CountOfLetters.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\11.CountOfLetters.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\x86\Debug\11.CountOfLetters.pdb

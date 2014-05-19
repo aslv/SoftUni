@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\02.Prime-Checker\bin\Debug\02.Prime-Checker.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\02.Prime-Checker\obj\Debug\02.Prime-Checker.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\02.Prime-Checker\bin\Debug\02.Prime-Checker.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\02.Prime-Checker\bin\Debug\02.Prime-Checker.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\02.Prime-Checker\obj\Debug\02.Prime-Checker.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\02.Prime-Checker\obj\Debug\02.Prime-Checker.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\02.Prime-Checker\bin\Debug\02.Prime-Checker.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\02.Prime-Checker\obj\Debug\02.Prime-Checker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\02.Prime-Checker\obj\Debug\02.Prime-Checker.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\02.Prime-Checker\bin\Debug\02.Prime-Checker.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\02.Prime-Checker\bin\Debug\02.Prime-Checker.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\02.Prime-Checker\obj\Debug\02.Prime-Checker.csprojResolveAssemblyReference.cache

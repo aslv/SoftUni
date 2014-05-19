@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+
+public class SumTwoNumbers {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		int a, b, sum;
+		try {
+			a = in.nextInt();
+			b = in.nextInt();
+			sum = a + b;
+			System.out.printf("The sum of %d and %d is %d\n", a, b, sum);
+		} catch (Exception e) {
+			System.err.println("An error occurred!");
+			e.printStackTrace();
+		}
+
+	}
+
+}

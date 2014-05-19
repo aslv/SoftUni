@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\bin\Debug\05.Sorting-Numbers.exe.config
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\bin\Debug\05.Sorting-Numbers.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\bin\Debug\05.Sorting-Numbers.pdb
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\obj\Debug\05.Sorting-Numbers.exe
+C:\Users\Lenovo\Desktop\Exam\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\obj\Debug\05.Sorting-Numbers.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\bin\Debug\05.Sorting-Numbers.exe.config
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\obj\Debug\05.Sorting-Numbers.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\obj\Debug\05.Sorting-Numbers.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\bin\Debug\05.Sorting-Numbers.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW2\Homework-CSharp-Advanced-Topics\05.Sorting-Numbers\bin\Debug\05.Sorting-Numbers.pdb

@@ -1,0 +1,7 @@
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\bin\Debug\4.DifferenceBetweenDates.pdb
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\obj\x86\Debug\4.DifferenceBetweenDates.exe
+D:\My Documents\SoftUni\visual studio 2010\Projects\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\obj\x86\Debug\4.DifferenceBetweenDates.pdb
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\obj\x86\Debug\4.DifferenceBetweenDates.exe
+D:\SoftUni\#0\C# Basics\C# advanced topics\evaluate\HW3\CSharp-Advanced-Topics-Homework\4.DifferenceBetweenDates\obj\x86\Debug\4.DifferenceBetweenDates.pdb
